@@ -1,0 +1,555 @@
+::::::::::::::
+001.py
+::::::::::::::
+#! /usr/bin/en python
+# -*- coding: utf-8 -*-
+#1) 行数をカウントしたもの．確認にはwcコマンドを用いよ
+#アプローチ：F.readlines()で行ごとに読み込みリスト化、
+#そのリストの要素数カウントをlen()関数で行う。
+
+f = open("../43KUMAMO.CSV", "r")
+Content = f.readlines()
+print len(Content)
+f.close()
+::::::::::::::
+002.py
+::::::::::::::
+#! /usr/bin/en python
+# -*- coding: utf-8 -*-
+#2) タブ１文字につきスペース１文字に置換したもの．確認にはsedコマンド，trコマンド，もしくはexpandコマンドを用いよ．
+#アプローチ：F.split(), F.join関数の利用
+#設定変更：タブ１文字につき→コンマ１文字につき
+f = open("../43KUMAMO.CSV", "r")
+for line in f.readlines():
+    print " ".join(line.split(","))
+f.close()
+::::::::::::::
+003.py
+::::::::::::::
+#! /usr/bin/en python
+# -*- coding: utf-8 -*-
+#(3) 各行の１列目だけを抜き出したものをcol1.txtに，２列目だけを抜き出したものをcol2.txtとしてファイルに保存せよ．確認にはcutコマンドを用いよ
+#アプローチ：for文とsplit関数の利用、書き出しにwrite関数
+f = open("../43KUMAMO.CSV", "r")
+wfF = open("col1.txt","w");
+wfS = open("col2.txt","w");
+for line in f.readlines():
+    line = line.split(",")
+    FirCol = line[0]
+    SecCol = line[1]
+    print u"1列目: %s" % FirCol,
+    print u"2列目: %s" % SecCol
+    wfF.write(FirCol+"\n")
+    wfS.write(SecCol+"\n")
+f.close()
+wfF.close()
+wfS.close()
+::::::::::::::
+004.py
+::::::::::::::
+#! /usr/bin/en python
+# -*- coding: utf-8 -*-
+#(4) (3)で作ったcol1.txtとcol2.txtを結合し，元のタブ区切りテキストを復元したもの．確認にはpasteコマンドを用いよ．
+#アプローチ：for文とsplit関数の利用、書き出しにwrite関数
+f = open("../43KUMAMO.CSV", "r")
+wfF = open("first_col.col","w");
+wfS = open("second_col.col","w");
+wfR = open("復元.txt","w");
+for line in f.readlines():
+    line = line.split(",")
+    FirCol = line[0]
+    SecCol = line[1]
+    wfR.write(FirCol+"\t"+SecCol+"\n")
+f.close()
+wfF.close()
+wfS.close()
+wfR.close()
+
+::::::::::::::
+005.py
+::::::::::::::
+#! /usr/bin/en python
+# -*- coding: utf-8 -*-
+#(5) 自然数Nをコマンドライン引数にとり，入力のうち先頭のN行だけ．確認にはheadコマンドを用いよ．
+#参考:http://osksn2.hep.sci.osaka-u.ac.jp/~taku/osx/python/readfile.html
+#http://docs.python.jp/2.7/tutorial/stdlib.html#tut-command-line-arguments
+#アプローチ：
+import sys
+N = sys.argv #intと仮定：エラーハンドリング未実装
+f = open("../43KUMAMO.CSV", "r")
+lines = f.readlines()
+for n in range(0, N)
+    print reqline[N] 
+f.close()
+
+::::::::::::::
+006.py
+::::::::::::::
+# !/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+# (6) 自然数Nをコマンドライン引数にとり，入力のうち末尾のN行だけ．確認にはtailコマンドを用いよ
+
+# アプローチ：
+
+import sys 
+
+N = int(sys.argv[1]) # $python 006.py 1 のようにファイル名の次に数値が来ると仮定
+#if(isinstance(N, int)):#http://www.gossamer-threads.com/lists/python/python/97153
+#    print "it is an int"
+#    print N
+#else:
+#    print "it is not an int"
+#    print N
+
+
+f = open("43KUMAMO.CSV","r")
+lines = f.readlines()
+for num in range(0, N): #(5)
+#for num in range(N, len(lines)):#(6)
+    print lines[num]
+f.close()
+::::::::::::::
+007.py
+::::::::::::::
+# !/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+#(7) １コラム目の文字列の異なり数（種類数）．確認にはcut, sort, uniq, wcコマンドを用いよ．
+#line[a,b,c,d,e,f]とあったらaがline[0], line[1], line[2],・・・で異なるline要素が何個あるか
+
+#アプローチ:aの内容をリスト
+
+file = open("43KUMAMO.CSV", "r")
+NewList = set()
+for line in file.readlines():
+    item = line.split(",")
+    NewList.add(item[0])
+
+print len(NewList)
+
+file.close()
+::::::::::::::
+008.py
+::::::::::::::
+# !/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+#(8) 各行を２コラム目の辞書順にソートしたもの（注意: 各行の内容は変更せずに並び替えよ）．確認にはsortコマンドを用いよ（この問題は結果が合わなくてもよい）．
+
+import csv
+
+file = open("43KUMAMO.CSV")
+l = csv.reader(file)#http://docs.python.jp/2/library/csv.html
+for row in file:
+    print csv
+
+::::::::::::::
+009.py
+::::::::::::::
+#! /usr/bin/env python
+# -*- encoding: utf-8 -*-
+#(9) 各行を２コラム目，１コラム目の優先順位で辞書の逆順ソートしたもの（注意: 各行の内容は変更せずに並び替えよ）．確認にはsortコマンドを用いよ（この問題は結果が合わなくてもよい）．
+#アプローチ:sorted関数の利用(key値の使用)
+#参考:
+#みんなのPython 柴田淳
+#http://docs.python.jp/2/howto/sorting.html
+
+import csv
+file = open("43KUMAMO.CSV","r")
+contents = csv.reader(file)
+NewList = []
+for line in contents:
+    #print line[3],
+    #print line[4], 
+    #print line[5], 
+    #print line[6], 
+    #print line[7], 
+    #print line[8]
+    NewList.insert(len(NewList), [line[4], line[5], line[7], line[8]])
+
+NewList.sort(key=lambda x:(x[1],x[0]), reverse=True)
+
+for line in NewList:
+    print line[0],
+    print line[1],
+    print line[2],
+    print line[3]
+
+file.close()
+
+::::::::::::::
+010.py
+::::::::::::::
+#! /usr/bin/env python
+#-*- encoding: utf-8 -*-
+#(10) 各行の２コラム目の文字列の出現頻度を求め，出現頻度の高い順に並べよ．ただし，(3)で作成したプログラムの出力（col2.txt）を読み込むプログラムとして実装せよ．確認にはcut, uniq, sortコマンドを用い
+
+#はしょり：(3)で作成したプログラムの出力（col2.txt）を読み込むプログラムとして実装せよ
+#アプローチ： 読み込みファイルより[文字列, 頻度]のリストを作成
+
+#List = [["abd","asbd"],["wbd","zzdbd","wbd"],["abd","asbd"]]
+#List = [[1,2],[3,4,5],[1,2]]
+#print List
+#NewList = set(List)
+#print NewList
+#上を実行すると以下の結果となる
+"""
+[['abd', 'asbd'], ['wbd', 'zzdbd', 'wbd'], ['abd', 'asbd']]
+Traceback (most recent call last):
+  File "010.py", line 15, in <module>
+    NewList = set(List)
+TypeError: unhashable type: 'list'
+"""
+#多重リストにsetは適用不可？
+
+import csv
+
+file = open("43KUMAMO.CSV","r")
+Contents = csv.reader(file)
+
+FreqList = [] #[対象文字列(str)、頻度(int)]
+
+for lineContents in Contents: #コンテンツのループ
+    fInList = False #リスト用フラグ
+    for itemFreqList in FreqList: #リストのループ
+        if(lineContents[4]==itemFreqList[0]):#リストの中とのマッチング
+            itemFreqList[1] += 1
+            fInList = True #リストの中にあったらフラグを立てる
+    if(fInList == False): #フラグがたってなかったら、
+        #print lineContents[4]
+        FreqList.insert(len(FreqList), [lineContents[4], 0])#リストに追加
+
+FreqList.sort(key=lambda x:(x[1]))#, reverse=True)
+
+for item in FreqList:
+    print item[0],item[1]
+
+file.close()
+::::::::::::::
+011.py
+::::::::::::::
+#!/usr/bin/env python
+#-*- conding:utf-8 -*-
+
+import twitter
+import re
+import time
+
+#f = open("tweets.txt", "a")
+wait = 90
+while True:
+    api = twitter.Api()
+    satuses = api.GetPublicTimeline()
+    print [s.user.name for s in statuses]
+    time.sleep(wait)
+::::::::::::::
+021.py
+::::::::::::::
+#! /usr/bin/env python
+# -*- python -*-
+# -*- encoding: utf-8 -*-
+
+import sys
+
+for line in sys.stdin.readline().split("."):
+    #文字列先頭の空白部(' ')除去
+    print line+"."
+::::::::::::::
+022.py
+::::::::::::::
+#! /usr/bin/env python
+# -*- python -*-
+# -*- encoding: utf-8 -*-
+# Task:標準入力から英語のテキストを読み込み，ピリオド→スペース→大文字を文の区切りと見なし，１行１文の形式で標準出力に書き出せ．
+
+import sys
+import re
+
+for line in sys.stdin.readline().split("."):
+    print re.match("\.\s[A-Z]",line)
+::::::::::::::
+024.py
+::::::::::::::
+#! /usr/bin/env python  
+# -*- python -*-
+# -*- encoding: utf-8 -*-
+import re
+
+#f=open("test2.txt","r")
+f=open("j98_1002.txt","r")
+w=open("024out.txt","w")
+line = f.readline()
+while line:
+    line = line.strip("\n")
+    word = re.findall("\s*,?([\(\)\<\>\{\}]|[^\".\n][\w'-]*)[\s\.,]?", line)
+    #word = re.findall("\s*,?([^\".\n][\w'-]*)[\s\.,]?", line) #proto#1
+    #word = re.findall("([^,\n]\w+)", line)
+    #print word
+    for i in range(len(word)):
+        if len(line):
+            print word[i]
+            w.write(word[i])
+            w.write("\n")
+    print "\n",
+    w.write("\n")
+    line = f.readline()
+f.close()
+w.close()
+::::::::::::::
+025.py
+::::::::::::::
+#!/usr/bin/env python
+import re
+
+fopen = open("024out.txt","r")
+fwrite = open("025out.txt","w")
+word = fopen.readline()
+while word:
+    #word = "\n" #for debug
+    if not re.match("^\s+\n$",word):
+        word = word.strip("\n")
+        line = str(word)+"\t"+str(word.lower())+"\n"
+        print line,
+        fwrite.write(line)
+    word = fopen.readline()
+    #break #for debug
+fopen.close()    
+fwrite.close()    
+
+::::::::::::::
+026.py
+::::::::::::::
+#!/usr/bin/env python
+import re
+#inFile = open("025out.txt","r")
+inFile = open("test2.txt","r")
+outFile = open("026out.txt","w")
+
+Word = inFile.readline()
+setWord = set()
+while Word:
+    #Getting lowered words (located after original_word \t)
+    Word.strip("\n")
+    pairWord = re.match("^(.*)\t(.*)$",Word)
+    loweredWord = pairWord.group(2)
+    #print loweredWord
+    setWord.add(loweredWord)
+    #print listWord
+    Word = inFile.readline()
+    #break #for debug
+
+listWord = list(setWord) 
+listSuffix_ly = set()
+#making a list of  -ly words
+for i in range(len(listWord)):
+    matched = re.match("^(.*)ly$",listWord[i])
+    if matched:
+        listSuffix_ly.add(matched.group(1))
+        #print matched.group(1)
+#picking -ness words out of listWord and checking matched with listSuffix_ly
+for i in range(len(listWord)):
+    matched = re.match("^(.*)ness$",listWord[i])
+    if matched and matched.group(1) in listSuffix_ly:
+        print matched.group(1)
+
+inFile.close()
+outFile.close()
+
+::::::::::::::
+027.py
+::::::::::::::
+#!/usr/bin/env python
+#-*- coding: utf-8 -*-
+
+from f010 import RankList 
+
+outFile = open("027out.txt","w")
+RankedList = RankList("025out.txt")
+#ref: http://blog.livedoor.jp/yawamen/archives/51492355.html
+for key, value in sorted(RankedList.items(), key=lambda x:x[1]):
+    print "%s:%d" % (key, value)
+::::::::::::::
+028.py
+::::::::::::::
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+import re
+
+def Ngram(Content, N):
+    FreqNgramList = {}
+    for line in Content:
+        for i in range(len(line)):
+            if i+N < len(line):
+                word = line[i:i+N]#line[i:i+N] iからi+N-1までの文字列
+                if FreqNgramList.has_key(word):
+                    FreqNgramList[word]+=1
+                else:
+                    FreqNgramList[word]=0
+    return FreqNgramList
+
+N = 2
+Content = open("025out.txt","r")
+FreqBigramList = Ngram(Content, N)
+Content.close()
+for key, value in sorted(FreqBigramList.items(), key=lambda x:x[1]):
+    print r"%s:%d" % (key, value)
+::::::::::::::
+029.py
+::::::::::::::
+#! /usr/bin/env python
+#-*- coding:utf-8 -*-
+
+from stemming.porter2 import stem
+print stem("factionally")
+::::::::::::::
+030.py
+::::::::::::::
+#! /usr/bin/env python
+#-*- coding:utf-8 -*-
+
+from stemming.porter2 import stem
+import re
+inFile = open("025out.txt","r")
+outFile = open("030out.txt", "w")
+
+for Line in inFile:
+    Line = Line.strip("\n")
+    Words = re.match("^(\w*)\t(\w*)$",Line)
+    #NewLine = Words.group(1)+"\t"+Words.group(2)+"\t"+stem(Words.group(2))
+    if Words:
+        outFile.write(Words.group(1)+"\t"+Words.group(2)+"\t"+stem(Words.group(2))+"\n")
+
+inFile.close()
+outFile.close()
+::::::::::::::
+031.py
+::::::::::::::
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+
+import re
+import sys
+import marshal
+
+inFile = open("inflection.table.txt","r")
+outFile = open("031out.txt","w")
+
+dictInflection = dict()
+for Line in inFile:
+    splitLine = Line.split("|")
+    DefinitionBySpeechPart = dict()
+    DefinitionBySpeechPart[splitLine[1]] = dict(conjugation = splitLine[3], base = splitLine[6])
+    #print DefinitionBySpeechPart
+    if not dictInflection.has_key(splitLine[0]):
+        dictInflection[splitLine[0]] = DefinitionBySpeechPart
+    else:
+        dictInflection[splitLine[0]].update(DefinitionBySpeechPart)        
+    #break
+#print dictInflection
+inFile.close()
+
+while True:
+    print "Type in a word (just enter to quit):",
+    input = sys.stdin.readline()
+    if input=="\n":
+        break
+    else:
+        input = input.strip("\n")
+        if dictInflection.has_key(input):
+            print dictInflection.get(input),
+        else:
+            print "Not found:"+input,
+    print "\n",
+::::::::::::::
+032.py
+::::::::::::::
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+import re
+import sys
+import marshal
+
+inFile = open("inflection.table.txt","r")
+outFile = open("032out.txt","w")
+
+dictInflection = dict()
+for Line in inFile:
+    splitLine = Line.split("|")
+    DefinitionBySpeechPart = dict()
+    DefinitionBySpeechPart[splitLine[1]] = dict(conjugation = splitLine[3], base = splitLine[6])
+    #print DefinitionBySpeechPart
+    if not dictInflection.has_key(splitLine[0]):
+        dictInflection[splitLine[0]] = DefinitionBySpeechPart
+    else:
+        dictInflection[splitLine[0]].update(DefinitionBySpeechPart)        
+    #break
+#print dictInflection
+inFile.close()
+marshal.dump(dictInflection, outFile)
+
+while True:
+    print "Type in a word (just enter to quit):",
+    input = sys.stdin.readline()
+    if input=="\n":
+        break
+    else:
+        input = input.strip("\n")
+        if dictInflection.has_key(input):
+            Word = dictInflection[input]
+            print input,":"
+            for Def in Word:
+                print "\t["+Def+"]:"
+                for Spec in dictInflection[input][Def]:
+                    print "\t ",
+                    print Spec.ljust(11),
+                    print ":",
+                    print dictInflection[input][Def][Spec]
+        else:
+            print "Not found:"+input,
+    print "\n",
+
+::::::::::::::
+033.py
+::::::::::::::
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+
+import re
+import sys
+import marshal
+
+inFile = open("")
+
+dictData = open("032out.txt","r")
+Dict = marshal.load(dictData)
+
+#use the same code from 032.py
+while True:
+    print "Type in a word (just enter to quit):",
+    input = sys.stdin.readline()
+    if input=="\n":
+        break
+    else:
+        input = input.strip("\n")
+        if Dict.has_key(input):
+            Word = Dict[input]
+            print input,":"
+            for Def in Word:
+                print "\t["+Def+"]:"
+                for Spec in Dict[input][Def]:
+                    print "\t ",
+                    print Spec.ljust(11),
+                    print ":",
+                    print Dict[input][Def][Spec]
+            #print Dict.get(input),
+        else:
+            print "Not found:"+input,
+    print "\n",
+::::::::::::::
+034.py
+::::::::::::::
+#! /usr/bin/env python
+#-*- encoding: utf-8 -*-
+
+

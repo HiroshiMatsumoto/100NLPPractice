@@ -1,0 +1,5718 @@
+98	of	the
+83	in	the
+49		the
+45	to	the
+44	the	
+32	of	
+29	1	
+28		in
+24	the	sense
+24	the	training
+23	training	set
+23	the	similarity
+21	on	the
+21	by	the
+21	similar	to
+20	from	the
+20	of	a
+20		of
+20	to	be
+19	word	sense
+19	sense	disambiguation
+19	disambiguation	
+19	can	be
+19	set	of
+18	the	corpus
+18	similarity	
+18	and	the
+17		we
+17		2
+17	the	feedback
+17	and	
+16		
+16	number	of
+16	for	each
+16	a	word
+16		word
+16	word	
+16	that	the
+15	the	word
+14	examples	of
+14	in	a
+14	computational	linguistics
+14	appear	in
+14	to	
+14		similarity
+13	feedback	sets
+13	the	words
+13	the	mrd
+13	similarity	of
+13		and
+13		a
+13	the	set
+13	do	not
+13	the	sentence
+13	of	w
+13	words	
+12	contexts	of
+12	each	sense
+12	the	examples
+12		computational
+12		0
+12	sense	
+11	the	target
+11	similarity	values
+11	target	word
+11	x	3
+11	for	example
+11	a	sentence
+10	word	similarity
+10	for	the
+10	the	affinity
+10	feedback	set
+10	in	proceedings
+10		4
+10	word	is
+10	for	
+10	sentence	similarity
+10	x	y
+10	proceedings	of
+9		from
+9	and	edelman
+9		sense
+9	karov	and
+9		sentence
+9		karov
+9	in	
+9	similarity	matrix
+9	examples	
+9	the	algorithm
+9		1
+9	24	number
+9	pages	
+9	is	a
+9	volume	24
+9	words	in
+9	edelman	word
+9	linguistics	volume
+9	number	1
+9		to
+8	the	same
+8	a	
+8	word	w
+8	is	the
+8	church	and
+8	it	is
+8	be	similar
+8	examples	in
+8	by	a
+8	w	is
+8	all	the
+8	the	number
+8	similar	words
+8	note	that
+8	sense	of
+8	each	word
+8	words	that
+8	polysemous	word
+8	for	n
+8	word	and
+7	if	they
+7	in	comparison
+7	represented	by
+7	as	the
+7		by
+7	yarowsky	1992
+7	to	a
+7	of	similarity
+7	contextual	similarity
+7	words	are
+7	are	not
+7	the	disambiguation
+7	0	
+7	using	the
+7	linguistics	
+7	2	
+7	3	
+7	with	the
+7	the	original
+7	xj	yk
+7	of	words
+7	the	first
+7	5	
+7	affinity	to
+7	that	are
+7	is	not
+7	association	for
+7	see	section
+7	the	sentences
+7	et	al
+6	the	method
+6		that
+6	seed	words
+6	the	appendix
+6		where
+6	meeting	pages
+6	in	our
+6	corpus	the
+6		figure
+6	definition	of
+6	similarity	is
+6	polysemous	words
+6	w	and
+6	one	of
+6	gale	church
+6	considered	similar
+6		words
+6	sense	si
+6	instead	of
+6	i	i
+6	sentences	in
+6	such	as
+6	are	considered
+6	the	contexts
+6	the	need
+6	sentences	that
+6	sim0	x
+6	the	drug
+6	very	large
+6	first	iteration
+6		for
+6	sparse	data
+6	simn	x
+6	section	a
+6	the	most
+6	affinity	of
+6	1	by
+6	x	x
+6	weight	of
+6	most	similar
+6	corpus	
+6	the	frequency
+6	the	weight
+6	of	iteration
+6	the	two
+6	information	
+6	large	
+6	0	and
+5	similar	if
+5		disambiguation
+5	on	
+5	and	a
+5	and	1
+5	in	similar
+5	2	the
+5		corpora
+5		was
+5	mrd	definition
+5	in	which
+5	banana	
+5	every	word
+5	in	this
+5	part	of
+5	sense	distinctions
+5	yk	
+5	its	affinity
+5	they	contain
+5		yarowsky
+5	of	each
+5	taste	banana
+5	related	to
+5	of	si
+5	used	as
+5	as	
+5	they	are
+5	sentence	
+5	the	problem
+5	drug	experiment
+5		3
+5	a	polysemous
+5	sentences	
+5	between	the
+5	is	
+5	w	in
+5	examples	for
+5	eat	banana
+5	frequency	of
+5	for	computational
+5	section	4
+5	x	1
+5		simn
+5	of	speech
+5	the	system
+5	because	the
+5	two	senses
+5	2	2
+5	each	
+5	for	a
+5		matrix
+5	are	similar
+5	corpus	and
+5	contextually	similar
+5	4	5
+5	our	system
+5	w	s
+5	because	of
+5		examples
+5	of	sentences
+5	we	have
+5	similarity	between
+5	the	extent
+5	of	examples
+5	this	
+4	even	if
+4	the	polysemous
+4	to	apple
+4	the	possibility
+4	10	
+4		than
+4	lee	1993
+4	words	with
+4	word	in
+4	s	is
+4	3	the
+4	not	
+4	need	for
+4	of	this
+4	in	iteration
+4	the	results
+4	and	sentences
+4	assume	that
+4	based	on
+4	two	words
+4		be
+4	the	wordnet
+4	a	typical
+4	s	14
+4	problem	of
+4	this	definition
+4	similarity	to
+4	a	sense
+4	contain	similar
+4	of	14
+4	we	
+4	may	be
+4	and	is
+4	distinctions	
+4		pages
+4	computational	
+4	because	they
+4	of	its
+4	a	small
+4	as	follows
+4	computation	of
+4	which	it
+4	to	which
+4	original	examples
+4	of	suit
+4	the	entire
+4	source	of
+4	algorithm	is
+4	and	of
+4	used	to
+4	between	0
+4	entire	corpus
+4	is	assigned
+4	does	not
+4		number
+4	to	it
+4		association
+4	comparison	to
+4	the	different
+4	performance	
+4	of	their
+4		sentences
+4	1	the
+4		senses
+4	of	our
+4	the	performance
+4	similarity	measure
+4	than	the
+4	similar	
+4	sense	in
+4		x
+4	e	weight
+4		linguistics
+4	_	1
+4	of	drug
+4		on
+4	cambridge	ma
+4		is
+4	that	is
+4	senses	in
+4	sentences	are
+4	they	appear
+4	eat	apple
+4	of	s
+4		our
+4	that	appear
+4	frequency	in
+4	is	similar
+4	assigned	the
+4		similar
+4		weight
+4	2	3
+4	solidarity	structure
+4	a	thesaurus
+4	sentence	s
+4	with	a
+4	3	_
+4	set	for
+4	banana	and
+4	affinity	is
+4	0	5
+4	indicative	of
+4	and	yarowsky
+4	6	
+4	iteration	
+4	4	2
+4	n	1
+4	words	of
+4	of	features
+4	similarity	matrices
+4	into	account
+4	iteration	the
+4	ykey	
+4	as	a
+4	it	contains
+4		are
+4	by	
+4		table
+4	is	represented
+4	each	cluster
+4	they	do
+4	in	section
+4	a	3
+4	matrix	
+4	al	1991
+3	process	in
+3	indicating	the
+3	9	
+3	of	sparse
+3	found	that
+3	to	other
+3	typical	usage
+3	aft	w
+3	usage	of
+3	of	word
+3	correspond	to
+3	similarities	
+3		very
+3	e	s
+3		those
+3		proof
+3	the	present
+3	any	word
+3	the	29th
+3	is	asymmetric
+3	of	seed
+3	desired	sense
+3	apple	because
+3	below	
+3	at	the
+3	which	the
+3	a	weight
+3	weighted	average
+3	structure	
+3	definition	is
+3	according	to
+3	pr	wi
+3	prove	for
+3	these	two
+3		ykey
+3	by	induction
+3	1	if
+3	to	each
+3	medicine	prescription
+3	the	contextual
+3	it	to
+3	of	related
+3		dagan
+3		banana
+3	t	
+3	maxsimn	xj
+3	is	to
+3	sentence	in
+3	sentence	is
+3	the	other
+3	attracted	to
+3	we	found
+3	listed	in
+3	in	addition
+3	same	sentence
+3		performance
+3	induction	hypothesis
+3	contained	in
+3	is	more
+3	that	
+3	in	turn
+3	to	eat
+3	very	sparse
+3	possibility	of
+3	average	of
+3	tag	the
+3	induction	on
+3	to	s
+3	14	to
+3	medium	menace
+3	if	14
+3	the	similarities
+3	the	previous
+3	n	and
+3	performance	of
+3	we	define
+3	antibiotic	blood
+3	and	prove
+3	each	other
+3	similar	sentences
+3	update	the
+3	as	we
+3	for	manual
+3	and	sentence
+3	mafia	newspaper
+3	x	is
+3	x	
+3	the	iterative
+3	with	iteration
+3	by	1
+3	features	it
+3		theorem
+3	used	in
+3	the	possible
+3	combination	of
+3	adjectives	of
+3	si	of
+3	mrd	definitions
+3	y	
+3	statistics	of
+3		contexts
+3	words	the
+3	siml	x
+3	training	data
+3	the	four
+3	words	to
+3	workshop	on
+3	corpus	in
+3	share	any
+3	this	problem
+3	the	success
+3	to	separate
+3	suit	
+3	annual	meeting
+3		drug
+3	words	from
+3	itai	and
+3	14	is
+3	measure	of
+3	banana	is
+3	different	senses
+3	is	indicative
+3		all
+3	proof	
+3	weights	
+3	values	are
+3	the	resulting
+3	a	corpus
+3	doubt	freedom
+3	use	of
+3	irrelevant	examples
+3	data	
+3		or
+3	have	been
+3	experiment	the
+3	its	context
+3	a	very
+3	in	s
+3	ma	
+3	set	and
+3	than	
+3	country	doubt
+3	our	algorithm
+3	aff	w
+3	did	not
+3	is	0
+3	distance	from
+3	court	and
+3	senses	of
+3	the	plot
+3	holds	for
+3		one
+3	it	appears
+3	the	desired
+3	senses	
+3	matrix	wsmn
+3	annual	
+3	our	experiments
+3	success	rate
+3	example	
+3	original	
+3		as
+3	and	robert
+3	the	weights
+3	dictionaries	in
+3	to	tag
+3	the	induction
+3	values	
+3		polysemous
+3	extent	to
+3	word	weights
+3	information	in
+3	set	
+3	the	best
+3	be	used
+3	3	1
+3	related	words
+3		meeting
+3	sim	x
+3	have	a
+3	4	
+3	examples	to
+3	the	final
+3	the	senses
+3	the	claim
+3	3	using
+3	brown	et
+3	s	the
+3		suit
+3		assassination
+3	by	an
+3	and	mercer
+3	a	dictionary
+3	words	may
+3	into	senses
+3	iteration	number
+3	the	typical
+3	to	avoid
+3	max	simn
+3	definition	words
+3	the	above
+3	word	14
+3	between	two
+3		different
+3	may	seem
+3	appendix	
+3	weight	x
+3	a	certain
+3	that	a
+3	hypothesis	
+3	words	and
+3	each	of
+3	1	0
+3	is	now
+3	sense	and
+3	a	given
+3		then
+3	of	clothes
+3	words	or
+3		taste
+3		see
+3	corpus	we
+3	disambiguation	using
+3	and	eat
+3	and	apple
+3	7	
+3	separate	the
+3	test	words
+3	examples	that
+3	second	iteration
+3	29th	annual
+3	previous	works
+3	and	to
+3	consider	the
+3	yk	_
+3	8	
+3	not	share
+3	sentence	to
+3	the	use
+3	the	development
+3	a	2
+3	although	this
+3	dictionary	definition
+3	section	3
+3	sim	snew
+2	observed	even
+2	even	in
+2	furor	killing
+2	be	the
+2	of	sense
+2	is	contextually
+2	a	method
+2	set	the
+2	marcus	and
+2	r	
+2	to	thousands
+2	xi	
+2	introduction	to
+2	not	have
+2	not	contain
+2	and	not
+2	aft	s
+2	and	because
+2	the	form
+2	the	intersection
+2	that	takes
+2	pages	association
+2	corpora	in
+2	the	dictionary
+2	unreliable	similarity
+2	to	every
+2	suit	we
+2	which	
+2	on	similarities
+2	its	expected
+2	we	use
+2	to	have
+2	per	sense
+2		church
+2		affinity
+2	form	of
+2	that	contextually
+2	low	weight
+2	yields	a
+2		player
+2	similarity	for
+2	ambiguous	word
+2	w1	w2
+2		with
+2	other	senses
+2	contribution	to
+2	in	other
+2		instance
+2		first
+2	unrelated	to
+2	the	second
+2	case	the
+2	similarity	measures
+2	press	
+2	plot	of
+2	every	sentence
+2	press	terrorism
+2	s	its
+2	to	capture
+2	the	size
+2	the	adjectives
+2	of	contextual
+2	such	
+2		example
+2	additional	examples
+2	of	any
+2	not	attract
+2	words	for
+2	and	its
+2	senses	however
+2	claim	holds
+2	word	x
+2	the	appearances
+2	we	would
+2	of	several
+2	given	the
+2	same	word
+2	to	learn
+2	that	originally
+2		using
+2	example	the
+2		appendix
+2	problem	in
+2	similarity	and
+2	is	mentioned
+2	of	all
+2	robert	l
+2	frequently	
+2	on	large
+2	third	in
+2	updating	its
+2	sense	by
+2	yet	
+2	ways	first
+2	tishby	1992
+2	method	
+2	of	training
+2	change	significantly
+2	their	common
+2	drug	because
+2	contain	enough
+2	simn	xi
+2	distance	in
+2	designed	to
+2	convergence	
+2	thesaurus	
+2	not	necessarily
+2	theorem	1
+2	estimates	its
+2	four	test
+2	update	a
+2	similar	contexts
+2	8	9
+2	a	new
+2	appendix	and
+2	weight	w
+2	weight	k
+2		there
+2	press	cambridge
+2	s	to
+2	words	r
+2	probabilities	computed
+2	its	dictionary
+2	simple	example
+2	an	mrd
+2	examples	are
+2	sense	the
+2	nouns	
+2	natural	language
+2	used	the
+2	using	wordnet
+2	its	sense
+2	was	similar
+2	della	pietra
+2	the	contribution
+2	affinity	information
+2	on	very
+2	to	1
+2	in	each
+2	similarity	from
+2	to	an
+2	example	of
+2	mercer	1993
+2	14	in
+2	containing	a
+2	tuning	of
+2	the	transitivity
+2		1993
+2	war	and
+2	product	of
+2	are	used
+2	to	one
+2	taste	and
+2	with	respect
+2	3	of
+2	is	taken
+2	transitivity	of
+2	alone	do
+2		lesk
+2		thus
+2	may	result
+2	used	a
+2	sire	s1
+2	the	knowledge
+2	matrix	for
+2	to	appear
+2	crime	
+2	new	words
+2	we	assume
+2	sentence	as
+2	an	iterative
+2	bootstrapping	process
+2	we	call
+2		every
+2	w	
+2	word	drug
+2	wics	
+2	word	estimates
+2	example	to
+2	iterations	as
+2	miller	et
+2	sedative	
+2	approaches	we
+2	their	
+2	a	large
+2	definition	for
+2	a	example
+2	the	union
+2		each
+2	or	sentences
+2	politics	rise
+2	which	in
+2	algorithm	on
+2	yarowsky	david
+2	this	observation
+2	because	we
+2	similar	even
+2	for	every
+2		prescription
+2	6	7
+2	pereira	fernando
+2	many	other
+2		mafia
+2	sense	tags
+2	in	its
+2	neighbor	words
+2	television	tranquilizer
+2	frequency	
+2	example	demonstrates
+2	acquisition	bottleneck
+2	appearances	of
+2	apple	
+2	semantic	
+2	the	context
+2	not	be
+2	other	than
+2	university	of
+2	collect	statistics
+2	of	court
+2	system	to
+2	sets	we
+2	intersection	of
+2	we	now
+2	polysemous	
+2	death	diabetic
+2	newspaper	press
+2		process
+2	tested	on
+2	drug	trafficking
+2	sense	sk
+2	yarowsky	1995
+2	7	8
+2	are	the
+2		resnik
+2	are	
+2		usage
+2		pereira
+2	of	information
+2	nodes	being
+2	new	examples
+2	schwall	1991
+2	of	context
+2	related	in
+2	have	to
+2	our	method
+2	initialization	assume
+2	1993	introduction
+2	if	
+2	i	e
+2	in	that
+2	features	of
+2	dozen	examples
+2	verb	or
+2	a	product
+2	adjacent	sentences
+2	are	less
+2	defined	by
+2	corpus	it
+2	for	learning
+2	this	case
+2	sentences	is
+2	the	nodes
+2		probabilistic
+2	only	the
+2	use	
+2	and	so
+2	methods	in
+2	methods	is
+2	matrix	ssm
+2	for	words
+2	directly	contained
+2	each	iteration
+2	is	reciprocally
+2	is	known
+2	and	trafficking
+2	measures	which
+2	automatically	
+2	corpus	to
+2		mit
+2	more	
+2	product	
+2	originally	contained
+2	definitions	alone
+2	similarity	because
+2	matrices	ssm
+2	two	different
+2	from	each
+2	less	informative
+2	translations	of
+2	method	is
+2	problem	by
+2	restricted	domains
+2	the	one
+2	table	2
+2	two	collections
+2	table	3
+2	a	feedback
+2	stopping	conditions
+2	x	maxsimn
+2	or	by
+2	which	may
+2	appearance	of
+2	in	one
+2	as	examples
+2	study	
+2	to	itself
+2		w
+2		e
+2	context	
+2	be	seen
+2	general	corpus
+2	maxsim	_l
+2		represented
+2	iterative	converging
+2	using	statistical
+2	the	identity
+2	based	
+2	data	set
+2	sentence	that
+2	between	words
+2	above	the
+2	trafficking	
+2	tagging	the
+2	ssm	
+2	closely	related
+2		medicine
+2	taste	is
+2	approach	to
+2	not	observed
+2	sentence	taste
+2	rely	on
+2	be	partitioned
+2	wordnet	
+2	the	maximal
+2	iteration	sim0
+2	found	in
+2	dagan	itai
+2	kenneth	w
+2	two	sentences
+2	be	either
+2	are	discarded
+2	dagan	ido
+2	_	0
+2	trafficking	and
+2	that	include
+2	unlike	the
+2	and	their
+2		data
+2	into	the
+2	our	similarity
+2	editor	leader
+2		training
+2	0	for
+2	affected	by
+2	for	suit
+2		allows
+2	publicity	quarter
+2	semantics	
+2	meanings	of
+2	informative	
+2	i	
+2	set	by
+2	from	a
+2	frequencies	in
+2	to	14
+2	from	several
+2	because	14
+2	basis	of
+2	contribution	of
+2	experiments	show
+2	state	television
+2	shows	the
+2	method	of
+2	censorship	dictatorship
+2	value	between
+2	context	similarity
+2	out	to
+2	partitioned	into
+2	method	for
+2	traffic	is
+2	target	
+2	belongs	to
+2	disambiguation	performance
+2	the	usage
+2	contains	and
+2	figure	3
+2	figure	2
+2	figure	1
+2	figure	4
+2	asterisk	marks
+2	in	two
+2	a	training
+2	to	generate
+2	of	0
+2	the	computation
+2	features	such
+2	uses	of
+2	affn	w
+2	the	initial
+2	a	combination
+2	1992	
+2	level	of
+2		aff
+2	92	
+2	contextual	relationships
+2	and	lee
+2	manufacturer	product
+2	show	that
+2	effects	of
+2	a	set
+2	max5xfreq	x
+2	or	syntactic
+2	the	probability
+2	be	of
+2	the	circularity
+2	second	
+2	extent	they
+2	was	a
+2	respect	to
+2	system	may
+2	similarity	value
+2	leads	to
+2	training	information
+2		its
+2	far	from
+2	use	in
+2		relationships
+2	need	
+2	possible	are
+2	a	low
+2	or	adjective
+2		factor
+2	menace	solidarity
+2	global	frequency
+2	demonstrates	the
+2	and	schwall
+2	share	neighbor
+2	frequency	is
+2	this	approach
+2		not
+2	similarities	of
+2	words	they
+2	value	of
+2	simn	s
+2	14	e
+2	to	these
+2		relevant
+2	sets	is
+2	tend	to
+2	instance	in
+2	and	processing
+2	kim	and
+2	be	represented
+2	extracted	from
+2	w	wi
+2	final	sentence
+2	there	in
+2	as	well
+2		an
+2	have	contextual
+2	ide	1990
+2	hillsdale	nj
+2	other	in
+2	if	w
+2	affinity	
+2	naftali	tishby
+2	sentences	eat
+2	is	any
+2	terrorism	censorship
+2	marks	the
+2	from	very
+2	most	
+2	markovitch	1993
+2	the	definition
+2	word	senses
+2	has	some
+2	other	words
+2	x	_
+2	the	asterisk
+2	drug	is
+2	from	its
+2	maximal	similarity
+2	49	
+2	on	word
+2	trained	on
+2	not	always
+2	3	4
+2	max	sim
+2	nj	
+2	thesaurus	or
+2	in	wordnet
+2	addition	to
+2	expected	to
+2	lawrence	erlbaum
+2		sim0
+2		can
+2	to	word
+2	in	an
+2		two
+2	and	siml
+2	the	global
+2	share	contexts
+2	mercer	
+2	we	used
+2	known	to
+2	sense	to
+2	information	for
+2	appears	in
+2	this	factor
+2	tagged	examples
+2		sublanguage
+2	is	resolved
+2	of	pseudowords
+2	appears	
+2	pages	cambridge
+2	disambiguation	algorithm
+2	church	
+2	_l	xj
+2	close	to
+2	size	and
+2	thousands	of
+2	readable	dictionaries
+2	avoid	the
+2	and	hence
+2	0	1
+2	0	6
+2		information
+2	features	
+2	iterative	algorithm
+2		into
+2	the	definitions
+2	n	
+2	difference	between
+2	mafia	nothing
+2	leader	newspaper
+2	learned	to
+2	prescription	
+2	any	noun
+2	three	iterations
+2	that	contain
+2	not	an
+2	nearest	neighbors
+2	different	
+2	doctor	and
+2	likely	to
+2		initialization
+2	for	w
+2	factor	
+2	thus	in
+2	the	remaining
+2	common	ancestor
+2	state	
+2	not	change
+2	terrorism	
+2	an	
+2	in	sentence
+2	requires	that
+2	is	fully
+2	k	x
+2	a	disambiguation
+2	4	3
+2	the	feature
+2	iteration	n
+2	n	0
+2	mrd	we
+2	has	many
+2	resnik	philip
+2	the	following
+2		set
+2		sec
+2	similar	because
+2	senses	by
+2	trafficking	are
+2	for	which
+2	drug	contexts
+2	that	of
+2	knowledge	acquisition
+2	w	e
+2	be	considered
+2	a	summary
+2	are	far
+2		1986
+2	to	use
+2		maxsimn
+2	entry	of
+2	sublanguage	description
+2	developed	in
+2	measure	
+2	several	factors
+2		task
+2	these	approaches
+2	table	1
+2		iteration
+2	sorted	by
+2	5	6
+2	a	similarity
+2	medication	medicine
+2	either	words
+2	similar	sentence
+2	rather	than
+2	estimated	from
+2	or	a
+2	attract	the
+2	would	not
+2	probability	density
+2		statistics
+2	four	polysemous
+2	the	cluster
+2	set	is
+2	that	share
+2	has	been
+2	considered	to
+2	we	construct
+2	generate	
+2	is	based
+2	in	drug
+2	specifically	the
+2	that	contains
+2		which
+2	3	shows
+2	some	affinity
+2	92	3
+2	expressions	drug
+2	freedom	
+2	si	
+2	large	corpus
+2	world	
+2		following
+2	original	sentences
+2	tishby	and
+2	described	in
+2	the	31st
+2	verbs	and
+2	and	crime
+2		sim
+2	other	methods
+2		average
+2	2	1
+2	observation	to
+2	a	value
+2	resolved	by
+2	dictated	by
+2		lee
+2	by	using
+2	dictionary	mrd
+2	be	more
+2	a	1
+2	task	and
+2	only	
+2	single	words
+2	the	sum
+2	described	below
+2	weight	xj
+2	expected	contribution
+2	al	1993
+2	croft	1989
+2	because	in
+2	the	initialization
+2	a	different
+2	initialization	of
+2	for	sense
+2	of	w2
+2	that	this
+1	is	high
+1	3	at
+1	pr	14
+1	gradually	suppressed
+1	decreased	the
+1	dictatorship	mafia
+1	considered	
+1	terminates	after
+1	of	sussex
+1	relatedness	tag
+1	aim	is
+1		pairs
+1	during	initialization
+1	setting	it
+1	set	see
+1	taken	into
+1	training	the
+1	1	of
+1	capture	some
+1	1	on
+1	how	to
+1	animal	death
+1	first	wordnet
+1	percentage	pressure
+1	specific	common
+1	methods	do
+1	system	learns
+1	contribute	
+1	55	0
+1	than	one
+1	different	entries
+1	1	siml
+1	values	to
+1	pseudowords	amounts
+1	works	on
+1	arsenal	baron
+1	4	to
+1	apple	according
+1	ruling	
+1	new	sentence
+1	4	compares
+1	menace	
+1	features	whose
+1	to	clothing
+1	the	highest
+1	relevant	feature
+1	june	
+1	sentence	judgment
+1	higher	
+1	14	whose
+1	creates	a
+1	the	observed
+1	doctor	should
+1	defined	below
+1		discussions
+1	crime	because
+1	several	dictionaries
+1	sense	laborious
+1	plotted	for
+1	is	updating
+1	apple	sentence
+1		themselves
+1	s	ew
+1	1986	different
+1	appendix	for
+1	v	x
+1		press
+1	miller	1993
+1	similar	in
+1	their	weighted
+1	3	and
+1	noun	verb
+1	for	constructive
+1	nantes	france
+1	discussions	and
+1	set	even
+1	because	learning
+1	noun	that
+1		brown
+1	initialization	
+1		flexibility
+1	by	all
+1	lawyer	second
+1	works	the
+1	we	tested
+1	changes	in
+1	print	profit
+1	two	sense
+1	do	contain
+1	senses	note
+1	and	object
+1	an	relatedness
+1	last	inequality
+1		lillian
+1	adjective	with
+1		distibutional
+1	correct	
+1	referred	to
+1	that	which
+1	and	tishby
+1	generalize	the
+1	k	nearest
+1		20
+1	1992	pereira
+1		26
+1	the	frequencies
+1	appearing	in
+1	grishman	and
+1	street	journal
+1	tree	distance
+1	be	tagged
+1		mrd
+1	trainingset	
+1	sentence	eat
+1	their	government
+1	jazz	recorder
+1	there	was
+1	fully	tapped
+1	defining	the
+1	schwall	
+1	in	table
+1	lawsuit	
+1	r	recursively
+1	each	normalized
+1	which	they
+1	was	
+1		associates
+1	whereas	sim
+1	notation	there
+1	unsupervised	word
+1	ykey	ykey
+1	are	nonnegative
+1	training	examples
+1	another	problem
+1		itself
+1	usually	appear
+1	nj	pages
+1		contain
+1	dictionary	action
+1	speech	more
+1	in	between
+1	topic	of
+1	to	allow
+1	2	string
+1	maxsimn_l	xj
+1	insulin	hypoglycemia
+1	corpus	for
+1	nouns	verbs
+1	dictionaries	often
+1	theorem	2
+1	theorem	3
+1	best	source
+1	upper	bound
+1	feature	set
+1	3	experimental
+1	define	a
+1	be	effective
+1	repeated	for
+1	1986	resnik
+1	contexts	the
+1	enough	see
+1	be	determined
+1	case	sentence
+1	every	language
+1	intuitively	the
+1	so	must
+1	the	appearance
+1	32	9
+1	contexts	than
+1	contexts	that
+1	statistics	this
+1	02142	present
+1	4	ignoring
+1	in	working
+1		circular
+1	1995	the
+1	pressure	
+1	comparison	first
+1	contains	more
+1	approached	by
+1	features	third
+1	w	frequency
+1	contained	
+1	a	hierarchical
+1	based	methods
+1	that	sentence
+1	of	large
+1	items	under
+1	doubt	
+1	discuss	either
+1	press	solidarity
+1	ignoring	irrelevant
+1	transitive	measure
+1	contained	there
+1	l	mercer
+1	our	measure
+1	judgment	23
+1	sense	entries
+1	sj	2
+1	anonymous	reviewers
+1	sets	by
+1	description	and
+1	listed	seed
+1	works	as
+1	situations	the
+1	informative	of
+1	the	notation
+1	so	far
+1	set	more
+1	that	could
+1	sj	i
+1	cambridge	university
+1	to	natural
+1	suit	court
+1	categories	
+1	lawsuits	we
+1	substance	crime
+1	s	containing
+1	baron	economy
+1	maintain	the
+1	the	british
+1	similarity	under
+1	associated	with
+1	for	polysemous
+1	weight	has
+1	but	neither
+1	e	g
+1	include	14
+1	thank	dan
+1	clothes	appear
+1	a	gradually
+1	500	appearances
+1	william	kenneth
+1	trouper	character
+1	its	two
+1	augmented	by
+1	nancy	ide
+1	money	arsenal
+1	their	potential
+1	now	augmented
+1	to	another
+1	us	to
+1	magnitude	people
+1	of	significant
+1	1992	word
+1	previously	obtained
+1	garment	fabric
+1	for	estimating
+1		shimon
+1	for	more
+1		values
+1	journal	1989
+1	symbolism	
+1	sl	using
+1	vector	indicating
+1	is	zero
+1	an	ice
+1	of	taste
+1	and	computer
+1	6	94
+1		vincent
+1	being	
+1	although	these
+1	although	they
+1	the	33rd
+1	we	just
+1	information	generalized
+1	suit	which
+1	rate	of
+1	is	approached
+1	where	max5xfreq
+1	the	task
+1	the	items
+1	used	there
+1		sch
+1	operational	disambiguator
+1	comments	on
+1	5	to
+1	similarity	relationships
+1	task	at
+1	100	the
+1	data	achieving
+1	in	court
+1	set	into
+1	complementary	roles
+1	tell	a
+1	domains	or
+1	assigned	
+1	an	external
+1	crime	need
+1	these	values
+1	terrorism	freedom
+1	461	98
+1	close	but
+1	made	at
+1	indicator	of
+1	saw	
+1	view	the
+1	unrelated	senses
+1	testing	
+1	sparseness	of
+1	is	likely
+1	s	because
+1	far	removed
+1	552	97
+1	not	likely
+1	set	at
+1	shirt	
+1		manuscript
+1	help	in
+1	training	a
+1	wsd	methods
+1	cluster	it
+1	holds	because
+1	list	to
+1	apple	yet
+1	cluster	in
+1	july	1992
+1	are	collected
+1	word	for
+1	this	resulted
+1	not	available
+1	definition	
+1	w	for
+1	percentage	print
+1	s	
+1	will	use
+1	normalized	by
+1		csl
+1	to	increase
+1	algorithm	will
+1	was	usually
+1	because	this
+1	and	for
+1	by	computing
+1	their	textual
+1	sense	indicators
+1	sentence	contains
+1		barnstormer
+1	did	
+1	sl	eat
+1	our	disambiguation
+1	be	estimated
+1	a	clear
+1	corpus	explicitly
+1	common	word
+1	sentence	fragments
+1	so	that
+1	leader	politics
+1	fully	
+1	or	to
+1	circularity	
+1	frequent	
+1	experiment	
+1	final	algorithm
+1	june	1995
+1	this	however
+1	than	to
+1	to	extract
+1	brown	peter
+1	aaai	fall
+1	reflecting	the
+1	327	100
+1	wsm	and
+1	disambiguated	using
+1	s	if
+1	si	using
+1	preset	
+1	reliance	on
+1	woke	up
+1	wordnet	used
+1	s	it
+1	people	relation
+1	critically	on
+1		only
+1	learn	also
+1	these	generated
+1	learning	
+1		wordnet
+1	death	impact
+1	economy	explosive
+1	to	simplify
+1	an	auxiliary
+1	a	particular
+1	contexts	are
+1	reflexive	vx
+1	the	seed
+1	given	word
+1		concepts
+1	reciprocally	
+1	to	pool
+1	drug	consider
+1	small	number
+1	uk	
+1	computers	and
+1	bilingual	corpus
+1	relevant	examples
+1		computed
+1	result	sale
+1	flexible	distinction
+1		voting
+1	larger	than
+1	to	worse
+1	the	smaller
+1	and	t
+1	and	x
+1	the	current
+1	matrices	wsm
+1	which	has
+1	weinreich	uriel
+1	by	initialization
+1	their	similarity
+1	change	with
+1	sense	into
+1	vector	whose
+1	and	5
+1	different	stages
+1	captured	by
+1	2	as
+1		posed
+1	how	the
+1	a	text
+1	specific	domains
+1	more	closely
+1	bank	although
+1	measure	developed
+1	humanities	
+1	analyzing	languages
+1	smaller	difference
+1	captures	higher
+1	are	highly
+1		regularities
+1	a	beckwith
+1	si	max
+1	simi_l	x
+1	further	that
+1	which	case
+1	low	frequency
+1	from	an
+1	typical	use
+1	our	case
+1	algorithm	works
+1	a	context
+1	stops	
+1	1992	yarowsky
+1	distance	metric
+1	and	more
+1	problem	remains
+1	where	c
+1	yt	
+1	where	n
+1	distinguish	between
+1	the	textual
+1	where	x
+1	contextual	and
+1	as	long
+1	e	and
+1	by	observing
+1	large	corpora
+1	effort	cessation
+1	publicity	sedative
+1	that	does
+1	and	an
+1	previous	step
+1	consider	
+1	between	probabilities
+1	algorithm	stops
+1	than	not
+1	of	definitions
+1	the	iterations
+1		unreliable
+1	values	become
+1	pattern	recognition
+1	algorithm	5
+1	are	relatives
+1	path	length
+1	mit	cambridge
+1		related
+1	fernando	naftali
+1	max	max
+1	too	late
+1	wsd	that
+1	small	enough
+1	few	new
+1	the	amount
+1	a	representative
+1	3	is
+1	values	were
+1	be	able
+1	it	did
+1	the	denominator
+1	to	direct
+1	exhausted	after
+1	this	simple
+1		usages
+1	on	semantics
+1	that	work
+1	that	word
+1	method	by
+1		spread
+1	senses	sl
+1	methods	typically
+1	performance	iteration
+1	mit	press
+1	both	in
+1		given
+1	common	case
+1	definition	s
+1	definition	a
+1	3	word
+1	2	discarding
+1	is	unreliable
+1	word	or
+1	vs	a
+1	information	and
+1	categories	trained
+1	traditional	similarity
+1	necessarily	indicate
+1	with	further
+1	we	report
+1	nor	share
+1	although	we
+1	rehovot	76100
+1	vs	0
+1	turned	out
+1	intervention	about
+1	max	1
+1	another	
+1	all	used
+1		references
+1	similar	of
+1	word	taste
+1	gleaned	from
+1	but	aft
+1	to	lawyer
+1	21	81
+1	lesk	1986
+1	weights	third
+1	military	none
+1	mere	frequencies
+1	results	described
+1	pages	nantes
+1	multiplied	by
+1	7	church
+1	0	if
+1	1995	combined
+1	and	useful
+1	0	is
+1	be	sorted
+1	the	1986
+1	the	relevant
+1	disambiguation	recently
+1	user	of
+1	using	a
+1	similarity	0
+1	to	this
+1	1	461
+1	iteration	one
+1		counter
+1	1993	distibutional
+1	genealogy	
+1	noun	groupings
+1	mrd	the
+1	very	frequent
+1	most	important
+1	50	0
+1	the	product
+1	w	to
+1	the	bias
+1	shows	how
+1	words	directly
+1	of	pennsylvania
+1	ones	the
+1	is	considered
+1	mn	
+1	methods	sch
+1	to	themselves
+1	warning	manufacturer
+1	one	for
+1	alone	this
+1	iteration	consider
+1		plant
+1	19	
+1		48
+1		49
+1		46
+1		47
+1		44
+1		45
+1		42
+1		43
+1	word	y
+1	examples	creates
+1	word	s
+1	bigrams	trigrams
+1	most	methods
+1	circumvents	this
+1	word	i
+1	guarantees	the
+1	alon	itai
+1	been	expected
+1	hat	boots
+1	automatically	that
+1	to	further
+1	drug	sentences
+1	santorini	1990
+1	c	max
+1	may	require
+1	2	although
+1	extracting	features
+1	not	related
+1		measures
+1	output	for
+1		traditionally
+1	are	convergence
+1	to	improve
+1	pages	june
+1	automatic	wsd
+1	this	estimation
+1	dis	similarity
+1	plotted	separately
+1	thus	smoothing
+1	appear	less
+1	learning	process
+1	detail	in
+1		learned
+1	computed	over
+1	sparse	training
+1	tapped	because
+1	address	this
+1	sentence	if
+1	from	all
+1	certain	threshold
+1	clustering	in
+1	barnstormer	playactor
+1	course	
+1	wordnet	hospital
+1	formulae	we
+1	between	
+1	xiex	
+1	4	42
+1	are	based
+1	raw	similarity
+1	pseudowords	gale
+1	correlation	between
+1	sentences	play
+1	employed	would
+1	by	adopting
+1	a	target
+1	all	
+1	in	hierarchies
+1	it	
+1	sentences	although
+1	disambiguation	was
+1	laboratory	
+1	we	considered
+1	suffices	to
+1	would	like
+1	construction	of
+1	unreliable	for
+1	rise	
+1	information	rather
+1	of	categories
+1	factor	wi
+1	schitze	1992
+1	third	the
+1	given	a
+1	the	advantages
+1	translations	do
+1	1998	association
+1	3	in
+1	to	sentences
+1	discard	
+1	3	if
+1	highest	frequencies
+1	matrix	using
+1	smoothing	
+1	context	experiments
+1	the	corresponding
+1	properties	of
+1	snew	si
+1		most
+1	iteration	a
+1	of	by
+1	dictionaries	
+1	task	during
+1		also
+1	problem	is
+1	context	features
+1	1	test
+1	manual	intervention
+1	iterative	process
+1	first	
+1	drug	sentence
+1	similar	yet
+1	nothing	aspiration
+1	increases	in
+1	and	returning
+1	hand	thus
+1	flexibility	
+1	most	previous
+1	typical	semantic
+1	within	three
+1	moreover	the
+1	clothing	the
+1	guthrie	joe
+1	construct	its
+1	is	words
+1	using	similarity
+1	edelman	t
+1		percentage
+1	instances	of
+1	either	0
+1	normalization	the
+1	modeling	that
+1	will	attract
+1	sets	constitute
+1	fabric	trousers
+1	59	
+1	ck	7
+1	examples	so
+1	together	relatives
+1	words	using
+1	of	wordnet
+1	1991	two
+1	trousers	pants
+1	ssm	correspond
+1	joon	h
+1	prospect	state
+1	cone	in
+1		assignment
+1		university
+1		global
+1	should	determine
+1	guthrie	et
+1	s	max
+1	institute	
+1	remaining	features
+1		let
+1	1	sim
+1	bandsman	jazz
+1	tranquilizer	unit
+1	1	flexible
+1	so	simn
+1	become	close
+1	its	relationship
+1	million	words
+1	31st	
+1	to	compute
+1	difficulty	can
+1	possible	reasons
+1	was	dictated
+1	pages	minneapolis
+1	every	topic
+1	further	consideration
+1		garment
+1	the	meanings
+1	correspond	
+1	exclude	words
+1	applied	mathematics
+1	in	disambiguating
+1		v6ronis
+1	not	collect
+1	from	sparse
+1	noun	
+1	is	affected
+1	obtain	sim
+1	very	high
+1	j	della
+1	ccsi	
+1	number	is
+1	low	count
+1	current	ambiguous
+1	indicators	automatically
+1	conducted	on
+1	particular	sense
+1	issue	on
+1		unrelated
+1	4	concludes
+1	assigned	identical
+1	initial	dis
+1	now	similar
+1	smoothing	the
+1	length	of
+1	willard	v
+1	example	suit
+1	law	medication
+1	hormone	damage
+1	s	but
+1	w	snew
+1	apple	further
+1	to	include
+1	nearby	ones
+1	using	texts
+1	by	additional
+1	is	also
+1	ulrike	schwall
+1	correct	correct
+1	processing	
+1		freq
+1		plotted
+1	word	can
+1	of	original
+1	also	depend
+1		supplied
+1	word	has
+1	iterations	otherwise
+1	works	define
+1	meaning	of
+1	1	then
+1	metric	defined
+1	high	level
+1	used	for
+1	1	they
+1	fi	be
+1	margin	print
+1	sentence	but
+1	thus	all
+1	relatively	few
+1	analyst	antibiotic
+1	aaai	
+1	third	workshop
+1	asymmetric	if
+1	producing	bilingual
+1	all	similarity
+1	large	number
+1	4	the
+1	the	approach
+1	estimation	of
+1		trafficking
+1	paper	can
+1	prescription	analyst
+1		tendency
+1	which	however
+1	disease	antibiotic
+1	conviction	judgment
+1	do	with
+1	evaluation	because
+1	untagged	corpus
+1	senses	we
+1	are	judged
+1	needs	to
+1	potential	so
+1	containing	them
+1	lexicon	and
+1		updating
+1	languages	in
+1	factors	of
+1	murder	restaurant
+1		hirschman
+1	direct	relatives
+1	define	
+1	a	feature
+1	reviewers	
+1	is	minimized
+1	speech	the
+1	general	trafficking
+1	several	researchers
+1		dominated
+1	several	
+1	0	because
+1	5	note
+1	s	of
+1	pairs	2
+1	we	initialize
+1	affinity	values
+1	than	just
+1	a	separate
+1	brother	editor
+1	poor	estimation
+1	converges	
+1	result	
+1	to	upper
+1	data	in
+1	the	menace
+1	distinction	be
+1	disambiguation	of
+1	with	low
+1	example	did
+1	distance	between
+1	parameterized	genealogical
+1	has	to
+1	data	presorted
+1	2	second
+1	where	pr
+1		basis
+1	sim	w1
+1	peter	f
+1	applications	such
+1		quine
+1	original	sentence
+1	automatic	methods
+1	using	as
+1	we	thank
+1	languages	are
+1	eat	because
+1	cannot	
+1	given	
+1	words	extracted
+1	in	divided
+1	sussex	falmer
+1	describes	the
+1	32	any
+1	33rd	annual
+1	contradiction	to
+1	problem	that
+1	frequencies	7
+1	w	noun
+1	third	iteration
+1	this	information
+1	1980	on
+1		insulin
+1	are	defined
+1	rich	source
+1		world
+1	family	relationships
+1	assumed	to
+1	put	to
+1	partition	the
+1	of	approaches
+1	the	total
+1		symptom
+1	obtained	within
+1		journal
+1	and	two
+1		expressions
+1	words	per
+1	wordnet	and
+1	learning	mit
+1		many
+1	refusing	ruling
+1	si	the
+1	weight	s
+1	to	wordnet
+1	log	likelihood
+1	roth	for
+1	are	captured
+1	tests	we
+1	plot	shows
+1	weight	1
+1	the	entry
+1	frequent	words
+1	w	church
+1	not	expected
+1	menace	was
+1		second
+1	two	
+1	present	paper
+1	and	inserting
+1	different	number
+1	words	2
+1		england
+1	45	
+1	year	a
+1	widely	used
+1	contain	words
+1	possible	translations
+1	keep	and
+1	system	learn
+1	diethylstilbestrol	hormone
+1	this	weight
+1	takes	
+1	words	i
+1	falls	under
+1	possibility	
+1	work	dagan
+1	contain	w2
+1	other	types
+1	of	note
+1	mitchell	p
+1	country	the
+1	s	and
+1	are	obtained
+1	more	words
+1	equation	4
+1	equation	3
+1	dagan	marcus
+1		aspiration
+1	in	mrd
+1	as	nouns
+1	fact	allow
+1	labeled	by
+1	neighbors	using
+1	stemming	it
+1	use	by
+1		manually
+1	sentence	nor
+1	war	on
+1	dress	frock
+1	natural	
+1	development	of
+1	corpora	pages
+1	after	stemming
+1	rather	
+1	just	saw
+1	and	ulrike
+1	corpus	because
+1	212	1
+1	sense	total
+1	multiplying	sire
+1	little	significance
+1	other	automatic
+1	opinion	portion
+1	is	twice
+1	in	and
+1	the	american
+1	2	disambiguation
+1	sentence	denoted
+1	taken	
+1	small	count
+1	other	original
+1	similarities	we
+1	in	ralph
+1	57	
+1	of	three
+1	of	using
+1	dimensions	of
+1	it	form
+1	dictionaries	and
+1	y	are
+1	values	the
+1	sentences	and
+1	a	strong
+1	to	instead
+1	2	describes
+1	system	compares
+1		dictionaries
+1	a	semantic
+1	and	naftali
+1	e	method
+1	to	w
+1	details	
+1	assassination	editor
+1	using	or
+1	v6ronis	jean
+1	values	these
+1	the	relatively
+1	three	other
+1	example	drug
+1	to	0
+1	appears	sentences
+1	and	lawyer
+1	l	
+1	capture	regularities
+1	mentioned	more
+1	by	theorem
+1	found	for
+1	sciences	university
+1	advantageous	over
+1	or	features
+1	structure	of
+1	rivaling	supervised
+1	a	graded
+1	obtained	clusters
+1	also	woke
+1	musician	instrumentalist
+1	contains	is
+1	documentation	49
+1	mafia	medium
+1	4	other
+1	amount	and
+1	to	lexical
+1	mentioned	in
+1	iterations	was
+1	england	
+1	sense	set
+1	to	reduce
+1	corpora	computational
+1	actress	
+1	sense	information
+1	the	meaning
+1	wsmn	and
+1	a	monolingual
+1	automatically	tagging
+1	finding	report
+1	sum	are
+1	mercer	1991
+1	set	given
+1	training	phase
+1	1991	
+1	w	not
+1	defined	whereas
+1	seem	to
+1	we	rely
+1	seen	to
+1	of	other
+1	not	similar
+1	underconstrained	and
+1	separated	by
+1	and	nature
+1	dollar	earnings
+1	more	similar
+1	wordnet	an
+1	that	defines
+1	that	satisfies
+1	david	magerman
+1	sentences	polysemous
+1	methods	brown
+1	material	military
+1	computed	in
+1	extend	r
+1	values	see
+1	one	matrix
+1	containing	w
+1	retrieval	based
+1	phase	for
+1	wi	z_
+1	sets	can
+1	they	
+1	to	raw
+1	as	features
+1	useful	
+1	effective	
+1	too	high
+1	achieving	over
+1	if	it
+1	corpus	its
+1	very	low
+1	of	documentation
+1	47	
+1	amounts	to
+1	and	beatrice
+1	way	attack
+1	the	increase
+1	a	preset
+1	14	weight
+1	appendix	all
+1	a	severe
+1	of	four
+1		dictatorship
+1	examples	needed
+1	two	meanings
+1	whereas	the
+1	the	indicator
+1	technique	widely
+1	at	first
+1	sentence	suit
+1	results	obtained
+1	itself	only
+1	pereira	and
+1	contribute	examples
+1	s	all
+1	long	as
+1	of	little
+1	on	manual
+1	similarly	those
+1		nontrivial
+1	a	bootstrapping
+1		dept
+1	5	because
+1	with	its
+1	in	supporting
+1	returning	
+1	s	1
+1	s	5
+1	s	9
+1	f	della
+1	s	w
+1	xi	x
+1	9	w
+1	that	appears
+1	learn	similarity
+1	law	manufacturing
+1	example	defining
+1	to	decide
+1	to	set
+1	1	as
+1	for	testing
+1	because	sense
+1	1	and
+1	as	initial
+1	senses	which
+1	word	examples
+1	larger	by
+1	similar	insofar
+1	did	here
+1	above	factors
+1	a	matrix
+1		general
+1	be	repeated
+1	testing	new
+1	is	exhausted
+1	darpa	
+1	in	restricted
+1	hence	their
+1	having	an
+1	cluster	each
+1	impersonator	imitator
+1	the	basis
+1	wi	1
+1	55	
+1	wi	6
+1	to	that
+1	not	based
+1	the	mean
+1		affn
+1		margin
+1	wi	i
+1		television
+1		less
+1	evidence	gleaned
+1	sentence	here
+1	hirschman	lynette
+1	sec	wics
+1	corpus	instead
+1		yk
+1	assassination	censorship
+1	word	order
+1	1995	recently
+1	considered	the
+1	play	complementary
+1	wilks	and
+1	a	larger
+1	the	rest
+1	in	setting
+1	most	common
+1	this	noise
+1	hierarchy	such
+1	representative	example
+1	structure	in
+1	presorted	by
+1	acknowledgments	
+1	carry	
+1	s	narcotic
+1	which	distinct
+1	of	weights
+1	paper	is
+1	sentence	features
+1	or	too
+1	textually	
+1	all	contexts
+1	also	by
+1	we	obtain
+1	sense	specifically
+1	a	pine
+1	quine	1960
+1	arranged	in
+1	less	than
+1	recently	yarowsky
+1	systems	trained
+1	si	will
+1	number	appears
+1	semantically	far
+1	0	92
+1	0	93
+1	will	have
+1	performance	on
+1	information	can
+1	collection	of
+1	computed	within
+1	few	iterations
+1	symposium	pages
+1	is	therefore
+1	65	89
+1	see	that
+1	sentence	can
+1		do
+1	cambridge	
+1		pure
+1	plot	for
+1	global	corpus
+1	examples	will
+1	14	the
+1	be	unreliable
+1		another
+1	ice	cream
+1	from	taking
+1	a	real
+1	e	or
+1	set	this
+1	analysis	in
+1	manually	listed
+1	verification	of
+1	the	irrelevant
+1	iteration	at
+1	attract	any
+1	will	not
+1	is	slower
+1	consequence	we
+1	report	the
+1	popularized	by
+1	because	
+1	turn	by
+1	into	
+1	data	most
+1	analyzing	language
+1	science	rehovot
+1	term	
+1	gradually	
+1	distance	the
+1	and	process
+1	to	save
+1		work
+1	8j	
+1	discussion	
+1	is	used
+1	made	in
+1	finding	metabolism
+1	which	x
+1	asymmetric	for
+1	advantages	of
+1	words	while
+1	collections	of
+1	any	mistakes
+1	have	the
+1	called	direct
+1	such	categories
+1	category	saving
+1	are	small
+1	learn	the
+1	known	
+1	coat	shirt
+1	disambiguation	how
+1	it	that
+1	taking	over
+1	development	and
+1	related	work
+1	times	in
+1	diabetic	finding
+1	word	may
+1	xi	xi
+1	and	improved
+1		142
+1	words	do
+1	the	sparseness
+1	multiply	the
+1		considered
+1	of	sire
+1	extract	contextual
+1	introduced	to
+1	iteration	captures
+1	symmetric	manner
+1	fully	contained
+1	methods	allow
+1	significantly	with
+1	discourse	
+1	sense	we
+1	indicating	that
+1	prescription	medicine
+1	cessation	consumption
+1	disambiguation	in
+1	fernando	and
+1	1992	suggested
+1	information	see
+1	been	left
+1	may	
+1	doctor	have
+1	words	yielding
+1	require	a
+1	53	
+1	find	bar
+1	the	stopping
+1	also	use
+1	fur	silks
+1		max
+1	more	likely
+1	the	difference
+1	s	has
+1	newspaper	
+1	matrix	each
+1	prior	constraint
+1	the	quality
+1	230	87
+1	generalized	
+1	textual	proximity
+1	1986	the
+1	these	unrelated
+1	examples	had
+1		wics
+1	iteratively	this
+1	set	will
+1	algorithm	the
+1	relationships	consider
+1	few	dozen
+1	features	that
+1	print	product
+1	other	properties
+1	presorted	into
+1	reduction	requirement
+1	in	themselves
+1	performance	indicating
+1	those	sentences
+1	is	smaller
+1	sk	for
+1	have	developed
+1	that	assumes
+1	action	in
+1	to	nouns
+1	classifier	that
+1	call	a
+1	same	
+1	be	up
+1	same	flexibility
+1	1986	discovering
+1	them	and
+1	advantage	to
+1	conditions	a
+1	to	update
+1	by	grouping
+1		need
+1	from	machine
+1	sense	turned
+1	not	obviate
+1	which	is
+1	senses	that
+1	in	genealogy
+1	the	list
+1	aspiration	brother
+1	turn	
+1	noun	found
+1	1	trial
+1	seed	examples
+1	many	useful
+1	target	words
+1	accordingly	words
+1	compute	the
+1	taking	the
+1	work	the
+1	alan	1986
+1	mrd	to
+1	ambiguous	words
+1	set	examples
+1	word	listed
+1	medication	pharmacists
+1	x	simn
+1	excludes	only
+1	translation	work
+1	appear	
+1	has	now
+1	has	not
+1	large	we
+1	setting	the
+1	damage	effect
+1	43	
+1		concerning
+1	first	collection
+1	clothes	will
+1	waistcoat	skirt
+1	acm	sigdoc
+1	81	55
+1	feature	space
+1	two	ways
+1	whose	senses
+1	usage	eat
+1	censorship	doubt
+1	consumption	country
+1	suit	that
+1	contains	one
+1	television	use
+1	necessarily	correspond
+1	for	translating
+1	following	simple
+1	information	to
+1	relatives	then
+1	the	tree
+1	average	as
+1	after	at
+1	computed	according
+1	cluster	we
+1	in	then
+1	initial	sense
+1	baseball	
+1	sentences	attracted
+1	twirler	comedian
+1	belong	to
+1	collections	in
+1	on	natural
+1	tasks	other
+1	the	previously
+1	rows	and
+1	the	low
+1	the	log
+1	significance	
+1	in	different
+1	litigation	receivership
+1	classes	is
+1	up	to
+1	considered	a
+1	expected	from
+1	count	in
+1	and	each
+1	following	x
+1	laundering	army
+1	subcorpus	and
+1	maxyfi	x
+1	keep	the
+1	a	discussion
+1		hierarchy
+1	then	brings
+1	be	found
+1	change	too
+1	versions	of
+1	related	methods
+1		change
+1	david	yarowsky
+1	data	can
+1	normalized	distance
+1	as	most
+1	51	
+1	as	statistical
+1	them	these
+1	texts	from
+1	1	simn
+1	using	all
+1	court	action
+1	with	two
+1	cartel	government
+1	like	the
+1	freedom	solidarity
+1	more	informative
+1	increase	intuitively
+1	1	second
+1		matrices
+1	as	seed
+1	saving	the
+1	sweater	vest
+1	were	used
+1	of	iterations
+1	pure	methods
+1		ball
+1	original	contexts
+1	addition	of
+1	drug	1
+1	sire	w1
+1	an	assumption
+1	1	extracting
+1	and	nancy
+1	grouping	that
+1	that	unlike
+1	1	words
+1	factor	w
+1	words	applying
+1	possible	application
+1		log
+1	unrelated	words
+1	is	dictated
+1	14	and
+1	ball	football
+1	65	100
+1	health	to
+1	the	part
+1	1991	word
+1	reliable	disambiguation
+1	automatic	word
+1	discuss	in
+1	campaign	introduction
+1	features	to
+1		belong
+1	a	hint
+1	extend	the
+1	similarity	based
+1	be	done
+1	while	
+1	first	word
+1	we	multiply
+1	usage	we
+1	g	letting
+1	see	table
+1	words	found
+1	other	details
+1	relation	between
+1	iterative	treatment
+1	that	matrix
+1	similarity	information
+1	many	more
+1	and	or
+1	at	most
+1		weizmann
+1	account	the
+1	israel	
+1		death
+1	i	t
+1		tishby
+1	estimation	problem
+1	of	100
+1	itself	and
+1	estimating	the
+1	1992	or
+1	a	possible
+1	tag	as
+1	iterative	computation
+1	improvement	in
+1	h	h
+1	done	to
+1	ith	component
+1	sentence	affinity
+1	of	both
+1	this	stopping
+1	speech	and
+1	si	is
+1	by	its
+1	learn	successfully
+1	sentence	matrix
+1	r	grisham
+1	including	a
+1		section
+1	dan	roth
+1	particular	difficulty
+1	in	third
+1	are	disjoint
+1	w	but
+1	pine	cone
+1	the	500
+1	set	relative
+1	derek	gross
+1	by	many
+1	i	j
+1	words	such
+1	reciprocally	related
+1	belong	since
+1		definition
+1	symbolism	trafficking
+1	4	learning
+1	to	its
+1	rows	in
+1		xiex
+1	frequency	frequent
+1	when	no
+1	are	indicative
+1	bounded	simn
+1	hierarchical	structure
+1	also	from
+1	process	preventing
+1	matrices	wsmn
+1	otherwise	thus
+1	distinct	senses
+1		traditional
+1	that	affinity
+1	be	their
+1	benefit	from
+1	probabilistic	approaches
+1	earnings	law
+1	suit	in
+1	traffic	which
+1	dancer	
+1	suit	is
+1	significant	features
+1	eat	and
+1	the	humanities
+1	merely	for
+1	needed	in
+1	or	general
+1		threshold
+1	actor	star
+1	vs	iteration
+1	features	in
+1	are	bounded
+1	press	censorship
+1	the	wall
+1	this	work
+1	disambiguation	here
+1	between	w
+1	of	81
+1	a	problem
+1	2	words
+1	visualization	the
+1	probabilistic	language
+1	word	are
+1	simn_l	xj
+1	suit	has
+1	factors	the
+1	w2	the
+1	distribuitional	analysis
+1	training	
+1	wordnet	miller
+1	assume	
+1	may	choose
+1	word	context
+1	and	banana
+1	distinctions	specifically
+1		so
+1	wordnet	a
+1		sl
+1	and	uses
+1	hence	face
+1	liability	manufacturer
+1	set	to
+1	experimental	evaluation
+1		dozen
+1	and	estimation
+1	much	more
+1	sense	was
+1		s3
+1		s2
+1	senses	sample
+1	we	partition
+1	1992	to
+1	highly	related
+1		1991
+1	initialize	the
+1	sentence	and
+1	5	is
+1	smoothing	is
+1		1998
+1	report	study
+1	set	from
+1	actual	in
+1	of	unambiguous
+1	george	a
+1	minimized	likewise
+1	3	now
+1	are	known
+1	the	learning
+1	be	very
+1	of	feedback
+1	affinity	vector
+1	termination	output
+1	consolidated	quantity
+1	word	constituent
+1	deducing	linguistic
+1	philosophy	quine
+1	hinrich	1992
+1	word	the
+1	not	appear
+1	application	to
+1	words	second
+1	81	is
+1	the	distance
+1	detailed	description
+1	computed	as
+1	iterations	after
+1	see	for
+1	medicine	percentage
+1	20	times
+1	to	in
+1	associates	hillsdale
+1	iteration	initially
+1	estimating	statistics
+1	journal	of
+1	action	case
+1	14	may
+1	14	from
+1	similarity	computed
+1	cognitive	and
+1	similarity	sim
+1	wordnet	in
+1	of	sj
+1	wordnet	is
+1	have	unreliable
+1	fast	in
+1	in	training
+1	insulin	warning
+1	let	words
+1	n	denotes
+1	yk	maxsim
+1	for	specific
+1	statistics	on
+1	system	
+1	copenhagen	august
+1	tend	not
+1	neural	networks
+1	rise	terrorism
+1	algorithm	constructs
+1	iterative	estimation
+1	1993	we
+1	more	information
+1	construct	for
+1	apple	have
+1	drug	the
+1		tuning
+1	over	third
+1	way	sentences
+1	assumes	that
+1	feedback	size
+1		feedback
+1	category	for
+1	some	of
+1	would	have
+1	iterations	they
+1	yields	much
+1	into	our
+1	supervised	
+1	it	does
+1	amsler	1984
+1	there	simple
+1		94
+1	words	appearing
+1		96
+1	the	value
+1		90
+1		92
+1	the	special
+1		98
+1	the	columns
+1	humans	and
+1	si	than
+1	item	x
+1	may	contain
+1	ssm	using
+1	assignment	of
+1	not	contribute
+1	experiment	an
+1	this	corpus
+1	further	increases
+1	turn	requires
+1	union	of
+1	to	discard
+1	tranquilizer	campaign
+1	and	label
+1	capturing	parameterized
+1	syntactic	information
+1	88	
+1	measure	and
+1	s	which
+1	situation	are
+1	transitive	exploration
+1	yield	the
+1	the	oxford
+1	of	tests
+1	with	
+1	we	describe
+1	times	larger
+1	was	wordnet
+1	supercomputing	
+1	on	note
+1	senses	e
+1	by	min
+1	approach	depends
+1	however	are
+1	excluded	
+1	been	the
+1	two	approaches
+1	glance	it
+1	preferred	because
+1	in	aaai
+1	an	illustration
+1	words	used
+1	suit	and
+1	translating	the
+1	6	resnik
+1	from	
+1	most	specific
+1	a	consequence
+1	action	or
+1	w	affn
+1	corpus	is
+1	yielded	many
+1	as	word
+1	1	musician
+1	three	sentence
+1	previous	iteration
+1	more	on
+1		xie
+1	the	weighted
+1	tallying	word
+1	those	
+1	here	
+1	description	
+1	genealogical	
+1	mafia	terrorism
+1	1993	hirschman
+1	context	we
+1	than	taste
+1	not	help
+1	cooccurrence	and
+1	initialization	we
+1	0	15
+1	on	drugs
+1	other	items
+1	talk	conversation
+1	effect	female
+1	professionals	
+1	throughout	training
+1	no	common
+1	tested	the
+1	1992	dimensions
+1	sentence	similarities
+1	notes	of
+1	one	can
+1	as	thesaurus
+1	clothing	and
+1	1986	automatic
+1	sense	examples
+1	most	target
+1	choices	made
+1	nested	subconcepts
+1	approaches	large
+1	under	which
+1	compares	the
+1		sweater
+1	sentences	a
+1	representation	the
+1	well	else
+1	suppressed	the
+1	subconcepts	for
+1	categories	yarowsky
+1	conform	to
+1		speech
+1	set	that
+1	1986	lexical
+1	these	methods
+1	the	topic
+1	iteration	is
+1	boots	coat
+1	5	testing
+1	clear	advantage
+1	would	use
+1	include	the
+1		distance
+1	linguistics	using
+1	miscarriage	refusing
+1	probability	
+1	newspaper	way
+1	h	kim
+1	and	ide
+1	wordnet	we
+1	designate	professionals
+1	in	every
+1	also	that
+1	nothing	politics
+1		resulting
+1	issues	in
+1	fragments	
+1	with	very
+1	newspaper	people
+1	with	senses
+1	editors	
+1	contain	some
+1	to	facilitate
+1	for	verbs
+1	w	as
+1	contain	noise
+1	out	on
+1	out	of
+1	frock	fur
+1	the	normalized
+1	the	iteration
+1	ones	for
+1	that	an
+1	yk	maxsimn_l
+1	themselves	
+1	word	whose
+1	a	detailed
+1	training	corpus
+1	to	bank
+1	france	
+1	symptom	warning
+1	maxsim	xj
+1	examples	were
+1	print	publicity
+1	matrix	to
+1	measures	words
+1	does	
+1	algorithm	can
+1	weights	are
+1	call	affinity
+1	82	analogously
+1	brill	eric
+1	1989	guthrie
+1	people	and
+1	in	several
+1	seeds	for
+1	collected	along
+1	similar	cluster
+1	in	recent
+1	to	distinguish
+1	simn	14
+1	allows	it
+1		has
+1	weighted	
+1	and	there
+1	to	share
+1	is	organized
+1	that	were
+1	1995	unsupervised
+1		murder
+1	of	resulting
+1	remains	however
+1	in	computing
+1	is	close
+1	law	medicine
+1	system	a
+1	its	row
+1	mrd	
+1	3	were
+1	of	occurrences
+1	features	this
+1	converging	process
+1	senses	are
+1	average	
+1	language	workshop
+1	if	sim0
+1	use	sets
+1	illustration	of
+1	resulting	sense
+1	are	most
+1	by	estimating
+1	must	be
+1	by	including
+1	wi	
+1	now	assume
+1	1	552
+1	are	quite
+1	f	x
+1	wsd	see
+1	suggest	to
+1	words	we
+1	simple	initialization
+1		ccsi
+1	9qh	uk
+1	frequencies	are
+1		schi
+1	contributed	
+1		marcus
+1	words	was
+1	words	war
+1	of	affinity
+1	mafioso	medium
+1	tag	automatically
+1	automatically	assign
+1	clusters	ck
+1	independence	of
+1	case	problem
+1	a	few
+1	more	details
+1	by	smoothing
+1	bar	which
+1	properties	are
+1	entries	in
+1	hand	
+1	because	new
+1	additional	information
+1	may	view
+1	relationships	let
+1	on	a
+1	contain	related
+1	measure	on
+1	pure	similarity
+1	density	to
+1	terrorism	country
+1	restaurant	substance
+1	use	a
+1	disambiguation	wsd
+1	different	types
+1	constraint	that
+1	is	plotted
+1	small	advantage
+1	the	cell
+1	given	situation
+1	training	and
+1	more	than
+1	of	wi
+1		notes
+1	affinity	between
+1	w2	as
+1	most	other
+1	the	simple
+1	be	
+1	simplify	the
+1	requires	manual
+1	corpus	a
+1	system	the
+1	lee	joon
+1	in	contexts
+1	yorick	
+1	23	327
+1	dictionary	
+1	proceeding	
+1	different	levels
+1	with	pseudowords
+1	rate	for
+1	w	cf
+1	w	ck
+1	bn1	9qh
+1	distributor	effort
+1	by	mrd
+1	data	for
+1	certain	dictionary
+1	they	generated
+1		markovitch
+1	sentences	may
+1	is	important
+1		78
+1	distinction	of
+1	any	original
+1	6	summary
+1	stemming	
+1	our	aim
+1	whereas	
+1	sense	is
+1	international	workshop
+1	twice	that
+1	contextual	word
+1	abstract	or
+1		being
+1	sets	
+1	sentence	structure
+1	dose	appeal
+1	a	probability
+1		r
+1		t
+1		v
+1		i
+1		o
+1		f
+1		note
+1	knowledge	source
+1	structure	trade
+1		8
+1	nodes	may
+1		5
+1		7
+1		6
+1	christiane	fellbaum
+1	roles	in
+1	depends	on
+1	items	that
+1	maps	instances
+1	the	main
+1	wi	in
+1	the	subsequent
+1	school	of
+1	we	may
+1	following	learning
+1	represented	
+1	iterations	each
+1	semantically	close
+1	scheme	can
+1	for	nouns
+1		appears
+1	is	then
+1	was	tested
+1	a	stop
+1	to	automatic
+1	can	learn
+1	since	they
+1	resulting	classes
+1	gross	and
+1	further	clustering
+1	far	has
+1	relationship	here
+1	word	belongs
+1	circularity	of
+1	disambiguate	the
+1	e	representing
+1	with	lawsuits
+1		participant
+1	similarity	phase
+1	constituent	dialogue
+1	weights	sum
+1	the	average
+1		cooccurrence
+1	senses	because
+1	that	needs
+1	researchers	subsequently
+1	whose	ith
+1	ck	weight
+1	26	
+1	14	aft
+1	1980	cruse
+1	values	develop
+1		until
+1	use	similarity
+1	manufacturer	miscarriage
+1	entries	of
+1	manageable	size
+1	98	
+1	text	corpus
+1	taste	because
+1	i	14
+1	determine	the
+1	now	present
+1	and	columns
+1	0	while
+1	and	health
+1	examples	can
+1	hypoglycemia	manufacturer
+1	estimate	is
+1	a	prior
+1	high	because
+1	its	nouns
+1		tagging
+1	lawyers	are
+1	other	two
+1	but	separated
+1	grouping	all
+1		contribute
+1	ability	to
+1	contexts	contexts
+1	training	with
+1	an	lexical
+1	mrd	entry
+1	for	word
+1	obtained	following
+1	pharmaceutical	remedy
+1	with	eachfi
+1		holds
+1	addition	
+1	language	and
+1	to	yield
+1	of	in
+1	second	words
+1	the	translations
+1	to	attract
+1		regularizes
+1	enough	information
+1	types	of
+1	by	methods
+1	or	source
+1	formulae	the
+1	cure	medication
+1	as	described
+1	as	can
+1	directly	contains
+1	s	in
+1	function	
+1	seem	trivial
+1	typical	uses
+1	determine	its
+1	y	can
+1	is	between
+1	other	a
+1	word	statistics
+1	mrd	and
+1	common	
+1	we	augment
+1		80
+1	first	instead
+1	the	information
+1	so	it
+1	present	
+1	this	line
+1	1	so
+1	cf	section
+1	sense	for
+1	are	values
+1		disambiguating
+1	discovery	in
+1	for	biological
+1	we	replace
+1	words	encountered
+1	nouns	0
+1	features	as
+1	constructs	a
+1	levels	of
+1	disambiguator	for
+1		gale
+1	reviewing	the
+1	in	sublanguage
+1	1992	brill
+1	being	strongly
+1	where	count
+1	in	previous
+1	relationships	between
+1	allowing	two
+1	attract	examples
+1	we	address
+1	in	iterations
+1	wordnet	system
+1	clothes	given
+1	supplied	with
+1	which	are
+1	1991	pereira
+1	we	say
+1	taste	was
+1	affinity	that
+1	contains	for
+1	allows	us
+1	otherwise	in
+1	x	we
+1	count	
+1	be	incorporated
+1	and	also
+1	the	split
+1	different	topics
+1	a	manageable
+1	j	s
+1	language	modeling
+1	may	continue
+1	words	have
+1	manual	
+1	categories	has
+1	british	national
+1	and	taste
+1	dictionary	or
+1	we	also
+1		katherine
+1	use	other
+1	requirement	may
+1	initial	representation
+1	of	computing
+1	typically	rely
+1	data	many
+1	1986	acm
+1	insofar	as
+1	then	
+1	tranquilizer	use
+1	erlbaum	
+1	there	this
+1	but	having
+1	1993	may
+1	approach	significantly
+1	separately	for
+1		tag
+1	yael	karov
+1		lawrence
+1	over	92
+1	using	this
+1	language	processing
+1	5	92
+1	c	of
+1	it	suffices
+1	the	improvement
+1	1996	
+1	words	tend
+1	sk	of
+1	definitions	of
+1	importance	of
+1		methods
+1	attack	government
+1	approach	
+1	reasons	for
+1	acm	pages
+1	important	to
+1		probabilities
+1	this	particular
+1	decision	is
+1	of	these
+1	present	address
+1	generated	a
+1	some	sentences
+1	do	
+1	lot	money
+1	brill	et
+1	in	related
+1	corpora	copenhagen
+1	remedy	cure
+1	similar	features
+1	suggested	that
+1	be	put
+1	of	traffic
+1	preventing	the
+1	features	with
+1	continue	to
+1	proofs	and
+1	low	because
+1	usage	
+1	see	
+1	lawyer	are
+1	portion	talk
+1	experiments	this
+1	data	is
+1	any	combination
+1	unobserved	using
+1	about	a
+1	matrix	the
+1	the	suit
+1	have	described
+1	x	ykey
+1	t	center
+1	other	polysemous
+1	several	ways
+1	involving	that
+1	mean	rather
+1	about	5
+1	lesk	michael
+1	iterations	the
+1	2	proofs
+1	develop	with
+1	example	words
+1	this	matrix
+1	newspaper	rise
+1	linguistics	19
+1	then	tested
+1	restaurant	law
+1	function	of
+1	hinges	on
+1	killing	substance
+1	shimon	edelman
+1	from	different
+1		because
+1	symposium	on
+1		proceedings
+1	court	are
+1	be	called
+1	snew	aff
+1	is	gradually
+1	simn	sb
+1	of	relationship
+1	to	supervise
+1		10
+1	itself	does
+1		weighted
+1	proportional	to
+1	the	decision
+1	an	affinity
+1	removed	from
+1	sense	0
+1	dictatorship	aspiration
+1	the	anonymous
+1	quality	
+1	machine	
+1	let	fi
+1	found	to
+1		verbs
+1	need	not
+1	disambiguation	task
+1	that	some
+1	claim	
+1	1984	for
+1	computing	sciences
+1	thus	a
+1	some	similarity
+1	80	
+1	important	word
+1	quarter	sedative
+1	definitions	the
+1	requires	a
+1	are	added
+1	recognition	and
+1		seeds
+1	sense1	examples
+1	instrumentalist	performer
+1	discriminators	for
+1	algorithm	are
+1	trigrams	and
+1	set	be
+1	support	for
+1	wordnet	path
+1	of	sense1
+1		upon
+1	avoid	poor
+1	wi	114
+1	from	1
+1	from	2
+1	otherwise	unrelated
+1	list	of
+1	iterations	
+1		semantically
+1	and	linguistics
+1	the	4th
+1	of	detail
+1	allows	the
+1	in	some
+1	at	different
+1	processing	techniques
+1	best	made
+1	proof	of
+1	external	knowledge
+1	uses	it
+1	appear	at
+1	available	in
+1	updated	and
+1	any	sentence
+1	test	data
+1		if
+1	value	in
+1	features	instead
+1	ancestor	and
+1	which	cannot
+1	prepared	
+1	92	correct
+1	aidinejad	1991
+1	1	conviction
+1	trivial	most
+1	each	item
+1	2	medicine
+1	different	polysemous
+1	observation	that
+1	following	the
+1	definitions	is
+1	1990	
+1	be	carried
+1	automatic	sense
+1	are	multiplied
+1	have	no
+1	corpus	which
+1	philip	june
+1	and	ssmn
+1	however	using
+1	some	noun
+1	explicitly	this
+1	can	then
+1	we	illustrate
+1	rates	for
+1		laundering
+1	_	simn_l
+1	and	homa
+1	unit	use
+1	zero	otherwise
+1	optionally	the
+1	we	mean
+1	estimation	for
+1	being	directly
+1	weights	do
+1	mrd	1
+1	editor	analyzing
+1	disjoint	
+1	98	6
+1	by	several
+1	they	frequently
+1	account	in
+1	relationships	in
+1	football	basketball
+1	profit	state
+1	mrd	a
+1	word	eat
+1	freedom	mafia
+1	its	k
+1	narcotic	65
+1	save	the
+1	narcotic	increases
+1	cf	gale
+1	threshold	are
+1	computation	algorithm
+1	the	changes
+1		medium
+1	strict	definition
+1	dialogue	talk
+1	of	typical
+1	erlbaum	hillsdale
+1	first	presented
+1	or	from
+1	to	generalize
+1	else	
+1	word	menace
+1	x	32
+1	of	independence
+1	bias	inherent
+1	to	hospital
+1	add	
+1	to	tell
+1	exploration	of
+1	instance	of
+1		tranquilizer
+1	tags	
+1	the	approaches
+1	in	r
+1	change	in
+1	an	ambiguous
+1	y	simi
+1		victory
+1	action	country
+1	including	in
+1	14	82
+1	first	we
+1	sch	1992
+1		foreclosure
+1	vest	waistcoat
+1	appendix	features
+1	correct	disambiguation
+1	guthrie	yorick
+1	that	it
+1	that	in
+1	sentence	should
+1	things	note
+1	medication	antibiotic
+1	now	discuss
+1	large	distance
+1	after	that
+1	not	a
+1		guthrie
+1	stop	list
+1	however	any
+1	cone	
+1	14	
+1	at	all
+1	y	and
+1	if	81
+1	account	using
+1	sample	size
+1	further	combine
+1	aspiration	
+1	development	
+1	successfully	from
+1	additional	words
+1	82	
+1	word	moreover
+1	usually	leads
+1	introduction	
+1	threshold	
+1	drug	as
+1	distibutional	similarity
+1	present	method
+1	several	of
+1	tendency	it
+1	determined	
+1	of	1
+1	important	properties
+1	or	
+1	over	simply
+1	by	clustering
+1		princeton
+1	is	learned
+1	w	10
+1	other	6
+1	of	n
+1	blood	medication
+1	the	common
+1	similarity	computation
+1	the	tests
+1	the	rows
+1	the	last
+1	identical	weights
+1	is	transitive
+1	is	too
+1	cognitive	science
+1	affn	s
+1	learn	even
+1	national	corpus
+1	0	sim0
+1	corpus	church
+1	because	different
+1	discarded	during
+1	y	siren
+1	allow	reliable
+1	with	iterations
+1	142	in
+1	wi	s
+1	regularities	with
+1	_	where
+1	government	also
+1	however	that
+1	the	addition
+1	indicates	the
+1	x	maxsim
+1	t	from
+1	y	where
+1	log	pr
+1	which	word
+1	compare	these
+1	philip	july
+1	example	s
+1	banana	has
+1	example	a
+1	trader	analyst
+1	recorder	singer
+1	entries	as
+1	interpolate	between
+1	one	with
+1	wall	street
+1	contexts	and
+1	is	its
+1	aff	s
+1	to	crime
+1	we	concentrate
+1	character	actor
+1	follows	first
+1	center	for
+1	been	prepared
+1	in	to
+1	j	
+1	matrix	as
+1	of	of
+1	miller	george
+1	context	into
+1	the	change
+1	78	
+1	it	tends
+1	convergence	each
+1	princeton	university
+1	some	detail
+1	while	doctor
+1	abstraction	and
+1	hundred	examples
+1		important
+1	of	every
+1	groupings	with
+1	capacity	cartel
+1	latter	used
+1	possible	to
+1	disambiguation	with
+1	ignoring	word
+1	one	containing
+1	we	extend
+1	87	5
+1	inserting	y
+1	victory	battle
+1	the	moral
+1	so	on
+1	neither	appear
+1	dept	of
+1	should	be
+1	up	too
+1	14	rather
+1	is	1
+1	attract	other
+1	pa	
+1	1960	word
+1	analyst	dealer
+1	august	1996
+1	occurrences	of
+1	are	proportional
+1	problem	referred
+1	lee	kim
+1	learning	from
+1	will	they
+1		converges
+1	certain	distance
+1	years	text
+1	circular	it
+1	structure	medium
+1	can	see
+1	sentence	containing
+1	still	to
+1	account	more
+1	of	most
+1	here	was
+1		59
+1	tagged	manually
+1	whose	frequency
+1	diabetic	evidence
+1		51
+1		50
+1		53
+1		55
+1		54
+1		57
+1		56
+1	an	untagged
+1	less	indicative
+1	that	affects
+1	we	consider
+1	informativeness	of
+1	high	further
+1	apple	the
+1	philadelphia	pa
+1		result
+1	on	this
+1	weinreich	1980
+1	resulting	clusters
+1	84	
+1	corpora	have
+1		consumer
+1	x	the
+1	usage	taste
+1	and	would
+1	is	low
+1	a	machinereadable
+1	regularizes	the
+1	statistics	representing
+1	better	performance
+1	because	by
+1	summary	
+1	and	w
+1	words	instead
+1	vocalist	actress
+1	injury	liability
+1	1	introduction
+1	was	0
+1	class	of
+1	similarities	in
+1		knowledge
+1	neighbors	have
+1	be	augmented
+1		initialize
+1	result	in
+1	beatrice	santorini
+1	within	the
+1	a	hundred
+1	eventually	
+1	sentences	which
+1	both	war
+1	1	indicating
+1	quarter	result
+1	for	tagged
+1	are	several
+1		school
+1	be	preferred
+1	learning	the
+1		mn
+1	stages	of
+1	curves	are
+1	vincent	j
+1	1991	and
+1	neighbors	of
+1	48	
+1	are	currently
+1		irrelevant
+1	is	contextual
+1	these	tagged
+1	in	detail
+1	or	example
+1	by	this
+1	the	single
+1	of	assigning
+1	treatment	of
+1	resulting	collection
+1	quantity	and
+1	constructive	comments
+1	prescription	print
+1	hirschman	1986
+1	during	the
+1	rest	of
+1		machine
+1	talk	
+1	we	tried
+1	lexical	category
+1	receivership	bankruptcy
+1	facilitate	visualization
+1	then	words
+1	a	coverage
+1	low	frequencies
+1	stimulant	alcoholist
+1	use	analyst
+1	actor	twirler
+1	before	the
+1	90	
+1	medicine	83
+1	sch	itze
+1	words	as
+1	and	richard
+1	word	because
+1	algorithm	terminates
+1	is	estimated
+1	max	aff
+1	described	an
+1	that	because
+1	of	equation
+1		disease
+1	now	a
+1	disambiguation	results
+1	reduce	the
+1	which	allows
+1	captures	this
+1	adding	examples
+1	both	senses
+1	noted	above
+1	its	similarity
+1	was	92
+1	use	if
+1	for	domains
+1	two	family
+1	every	sense
+1	sec	
+1	contribute	values
+1	seen	from
+1	eat	
+1	we	did
+1	1991	brown
+1	that	aft
+1	sense	associated
+1	for	tasks
+1	weight	when
+1	xie	x
+1	we	studied
+1	to	change
+1	is	applicable
+1	process	described
+1	in	applications
+1	columns	to
+1	space	which
+1	all	thus
+1	none	opinion
+1		even
+1	neither	will
+1	synsets	or
+1	ralph	
+1	crime	furor
+1	also	
+1	augmented	in
+1	data	that
+1	yk	simn
+1	a	total
+1	reflects	the
+1	illustrate	a
+1	8	to
+1	and	hierarchical
+1	define	the
+1		christiane
+1	this	additional
+1	pool	the
+1	mean	a
+1	sense	that
+1	example	trafficking
+1	should	also
+1	significantly	although
+1	large	potentially
+1	before	normalization
+1	generated	with
+1	laborious	and
+1	banana	have
+1	be	advantageous
+1	any	part
+1	have	conducted
+1	subsequently	continued
+1	86	
+1	case	lawsuit
+1		restricted
+1	1	stimulant
+1	weight	wi
+1	sets	of
+1	the	informativeness
+1	for	updating
+1	sense	these
+1	voting	either
+1	fellbaum	derek
+1	tests	to
+1	definitions	from
+1	be	synonyms
+1	converging	
+1	typical	usages
+1	but	do
+1	shaul	marcus
+1	as	sense
+1	that	maps
+1	are	expected
+1	senses	and
+1		about
+1	we	keep
+1	bank	in
+1	also	possible
+1	spread	of
+1	then	x
+1	affects	the
+1	iteratively	yields
+1	only	information
+1	performance	vs
+1	also	to
+1	our	iterative
+1	that	combines
+1	are	as
+1	in	more
+1	for	many
+1	american	people
+1	relevant	and
+1		material
+1	themselves	the
+1	resnik	1995
+1	89	1
+1	resnik	1992
+1	be	obtained
+1	domains	
+1	divided	by
+1	simn	v
+1	simn	w
+1	when	the
+1	campaign	law
+1		usually
+1	those	words
+1	may	carry
+1	14	c
+1	frequent	word
+1		per
+1	not	to
+1	c	we
+1		cambridge
+1	first	the
+1		iterations
+1	order	this
+1	iteratively	as
+1	14	4
+1	set	because
+1	flexibility	for
+1	ssmn	3
+1	will	normally
+1	x	and
+1	krovetz	robert
+1	and	pure
+1	replace	
+1	this	can
+1	wsmn	using
+1	speech	each
+1	satisfies	maxyfi
+1	section	2
+1	the	wsd
+1	96	
+1	string	word
+1	are	reviewing
+1	judgment	acquittal
+1	values	of
+1		frequency
+1	related	synsets
+1	further	iterations
+1	manual	work
+1	weight	indicating
+1	and	yoon
+1	ido	alon
+1		apple
+1	words	alone
+1	in	contradiction
+1	contexts	although
+1	of	acm
+1	or	any
+1	si	w
+1	ew	
+1	was	found
+1	taken	to
+1	hint	for
+1	magerman	mitchell
+1	factors	each
+1	and	depends
+1	performer	48
+1	following	convergence
+1	denominator	is
+1	just	the
+1	word	translations
+1	dictatorship	newspaper
+1	than	two
+1	those	of
+1	information	retrieval
+1	itze	1992
+1	trafficker	crime
+1	not	merely
+1	by	starting
+1	best	results
+1	feature	a
+1	our	reliance
+1	star	baseball
+1	given	sense
+1	apple	are
+1	for	automatic
+1	too	few
+1	constructs	as
+1		staff
+1	menace	newspaper
+1		58
+1	nodes	lee
+1	at	hand
+1	1993	and
+1	r	to
+1	values	iteratively
+1	applied	iteratively
+1	the	third
+1	an	approach
+1	bottleneck	training
+1	iteration	because
+1	however	as
+1	is	totally
+1	omitted	note
+1		combines
+1		medication
+1	a	function
+1	depend	on
+1	propose	circumvents
+1	assigning	a
+1	w2	for
+1	more	frequently
+1	tried	to
+1	81	and
+1	w	we
+1	this	yields
+1	overlap	between
+1	the	five
+1	not	in
+1	choose	a
+1	flexible	sense
+1	able	to
+1		relatively
+1	93	vs
+1	may	conclude
+1	min	w
+1	ambiguous	
+1	cluster	a
+1	cluster	c
+1	w2	this
+1	any	definition
+1	the	symmetric
+1	contexts	be
+1	clustering	
+1	performer	artist
+1	advantage	for
+1	relatives	
+1	values	taken
+1	label	14
+1	a	number
+1		workshop
+1	any	two
+1	frequencies	as
+1	female	prospect
+1	word	seed
+1	relevant	features
+1	adjective	there
+1	subsequent	iterations
+1	living	things
+1	explosive	government
+1	verbs	adjectives
+1	1960	and
+1	tags	this
+1	fully	similar
+1	to	better
+1	4	these
+1	pants	dress
+1	to	sense1
+1	say	that
+1		according
+1	different	dictionaries
+1	fall	symposium
+1	disambiguation	our
+1	manual	translation
+1	object	
+1	other	
+1	to	belong
+1	because	s
+1	90	5
+1	and	context
+1		at
+1	learn	to
+1	added	
+1	44	
+1	sentences	involving
+1	then	learn
+1	original	training
+1	information	or
+1	donald	e
+1	a	nondecreasing
+1	speech	of
+1	disambiguating	word
+1		operational
+1		bootstrapping
+1	this	tendency
+1	each	sentence
+1	we	learn
+1	a	transitive
+1	disambiguating	
+1	s	sj
+1	not	from
+1	computational	learning
+1		algorithm
+1	and	shaul
+1	examples	with
+1	network	arranged
+1	if	s
+1	nkey	
+1	94	
+1	noise	
+1	senses	the
+1	word	should
+1	michael	1986
+1	court	212
+1	had	still
+1	university	press
+1	decide	automatically
+1	using	
+1	weights	appear
+1	are	assigned
+1	to	maintain
+1	of	ambiguous
+1	be	attracted
+1	nontrivial	issues
+1	this	distinction
+1		damage
+1	or	verb
+1	process	the
+1	1992	yields
+1	sets	because
+1	the	aaai
+1	w2	we
+1	concentrate	on
+1	manually	
+1		compare
+1	editor	mafia
+1	after	
+1	clustering	schi
+1	using	large
+1	1992	a
+1	and	completely
+1	david	1992
+1	david	1995
+1	1993	in
+1		cruse
+1	relation	threat
+1	word	by
+1	cruse	d
+1	word	correspond
+1	csl	43
+1	kittredge	editors
+1	the	values
+1	some	contextual
+1	the	expressions
+1	has	two
+1	58	
+1	amsler	
+1	beckwith	
+1	its	contextually
+1	obtained	with
+1	no	new
+1		described
+1	two	nodes
+1	artist	actor
+1	newspaper	politics
+1	simn	yk
+1	product	symptom
+1	an	extensive
+1	because	court
+1	inflating	the
+1	the	poor
+1	a	fully
+1		optionally
+1	useful	ones
+1	we	update
+1		walker
+1	1993	information
+1	the	categories
+1	set	belong
+1	its	frequency
+1	was	first
+1	different	words
+1	sets	larger
+1	0	this
+1	on	information
+1	x	e
+1	separate	sentence
+1	corresponding	
+1	case	of
+1	contain	w
+1	combines	the
+1	manner	a
+1	contextual	
+1	the	latter
+1	disambiguator	the
+1	experiments	the
+1	2	ignoring
+1	examples	the
+1	we	do
+1	which	do
+1	defined	as
+1		readable
+1	however	led
+1	w	note
+1	500	examples
+1	was	3
+1	100	92
+1	princeton	nj
+1	factor	excludes
+1	are	labeled
+1	sentence	8
+1		these
+1	reliable	
+1	d	alan
+1	linguistics	weinreich
+1	likewise	sentence
+1	corpus	examples
+1	example	whereas
+1	more	training
+1	sentence	t
+1	left	out
+1	a	classifier
+1	the	statistics
+1	severe	problem
+1	iterations	with
+1	flexibility	their
+1	until	the
+1	inequality	holds
+1	weizmann	institute
+1	proofs	
+1	snew	c
+1	words	than
+1	drugs	
+1	we	determine
+1	a	plot
+1	judged	by
+1	disambiguation	process
+1	a	high
+1	iterate	see
+1	this	estimate
+1	learning	requires
+1	76100	israel
+1	larger	corpus
+1	gale	william
+1	46	
+1	x	nkey
+1	comparison	
+1	examples	which
+1	of	such
+1	posed	to
+1	wordnet	similarity
+1	speech	is
+1	topics	
+1	methods	and
+1	transitive	allowing
+1	manually	we
+1	relative	to
+1	statistical	pattern
+1	brother	censorship
+1	source	such
+1	here	is
+1	jean	and
+1	to	some
+1	work	
+1	mistakes	can
+1	set	our
+1	the	general
+1	of	english
+1	with	n
+1	yarowsky	8
+1	3	2
+1	3	0
+1	sentences	the
+1	pseudowords	is
+1	results	of
+1	indicative	in
+1	of	supercomputing
+1	yarowsky	a
+1	on	features
+1	wsd	is
+1	law	bill
+1	in	figure
+1	and	update
+1	sim	w
+1	sim	v
+1	48	230
+1	results	
+1	simple	
+1	identical	words
+1	2	and
+1	five	highest
+1	symmetric	iterative
+1	matrix	in
+1	from	further
+1	sim	1
+1	will	capture
+1	algorithm	we
+1		share
+1	between	81
+1	1992	wordnet
+1	members	of
+1	the	and
+1	require	taking
+1	blood	prescription
+1	8	are
+1	process	guarantees
+1	led	to
+1	use	w
+1	contestant	trader
+1		terrorism
+1	and	ssm
+1	menace	terrorism
+1		keep
+1	be	defined
+1	o	1960
+1	were	attracted
+1	structure	from
+1	algorithm	for
+1	weight	falls
+1	transitive	effects
+1	of	convergence
+1	polysemous	target
+1	trial	litigation
+1	the	length
+1	56	
+1	in	darpa
+1	suggested	to
+1	it	every
+1	introduction	law
+1	factor	captures
+1		sire
+1	to	disambiguate
+1	x	where
+1	cannot	capture
+1	j	miller
+1	of	sim
+1	plots	are
+1	in	philosophy
+1	3	three
+1	have	similar
+1	work	as
+1	number	between
+1	face	a
+1	too	fast
+1	corpus	be
+1	c	contributes
+1	1995	disambiguating
+1	word	using
+1	clusters	although
+1		tallying
+1	the	case
+1	hierarchical	clustering
+1	of	w1
+1	they	cannot
+1	from	data
+1	auxiliary	relation
+1	we	confined
+1	joe	a
+1	the	otherwise
+1	general	
+1	words	doctor
+1	player	performer
+1	clustering	can
+1	which	contains
+1	step	add
+1	using	its
+1	the	related
+1	english	words
+1	wsmn	
+1	hypoglycemia	insulin
+1	more	complex
+1	weight	in
+1	notion	of
+1	real	number
+1	taste	sentence
+1		introduced
+1	context	words
+1	bounded	by
+1	the	only
+1	both	designate
+1	networks	extracted
+1	the	war
+1	necessarily	overlap
+1	the	way
+1	using	other
+1	y	instead
+1	each	part
+1	average	success
+1	government	hand
+1	slower	because
+1	sense	which
+1	manual	verification
+1	eric	david
+1	sentences	thus
+1	process	that
+1	from	their
+1	algorithm	
+1	s1	equation
+1	or	clothing
+1	topic	words
+1	is	computed
+1	several	clusters
+1	below	to
+1	silks	hat
+1	by	most
+1	domains	other
+1	working	
+1	judged	on
+1	graded	measure
+1	affinity	formulae
+1	the	versions
+1	number	for
+1	censorship	country
+1	if	applied
+1	player	see
+1	used	after
+1	its	examples
+1	participant	contestant
+1	observed	frequencies
+1	small	corpus
+1	always	correspond
+1	15	vs
+1	defines	its
+1	contains	
+1	by	adding
+1	1993	our
+1	successively	capturing
+1	participant	44
+1	rise	action
+1	special	issue
+1		measure
+1	the	required
+1	pereira	
+1	y	e
+1	sentence	82
+1	i	to
+1	contains	the
+1	simply	setting
+1	initialization	every
+1	sb	weight
+1	need	to
+1		extend
+1	we	propose
+1	sum	of
+1	a	technique
+1	y	1
+1	words	it
+1	1991	v
+1	feature	by
+1	then	attract
+1	cloth	
+1	pennsylvania	press
+1	second	we
+1		menace
+1	s1	1
+1		restaurant
+1	these	additional
+1	statistics	from
+1	mrd	for
+1	factors	frequency
+1	xj	yt
+1	skirt	jacket
+1	feedback	
+1	contained	32
+1	assumption	of
+1	where	the
+1	hardly	affected
+1	indicate	similarity
+1	takes	into
+1	3	can
+1	assign	each
+1	machine	readable
+1	added	in
+1	is	textually
+1	walker	donald
+1		accordingly
+1	and	player
+1	data	these
+1	two	times
+1		conceptual
+1	54	
+1	proceedings	
+1	holds	a
+1	pietra	and
+1	data	this
+1	jacket	cloth
+1	are	automatically
+1	x	max
+1	two	adjacent
+1	matrix	note
+1	condition	the
+1	drug	narcotic
+1	recent	years
+1	iterations	2
+1	they	neither
+1	label	
+1	severely	underconstrained
+1	representing	each
+1	compares	favorably
+1	usages	for
+1	player	
+1	note	further
+1	7	smoothing
+1	polysemous	test
+1	different	sentences
+1	different	measure
+1		sparse
+1	and	have
+1	component	indicates
+1	applicable	to
+1	description	of
+1	a	amsler
+1	press	brother
+1	not	on
+1	0	8
+1	by	original
+1	each	original
+1	two	however
+1	drug	
+1	learned	discriminators
+1	sire	x
+1	especially	related
+1	and	features
+1	database	
+1	apple	than
+1	patterns	are
+1	when	used
+1	0	89
+1	its	sentences
+1	0	7
+1	government	mafia
+1	sentence	by
+1		lawyers
+1	basketball	
+1	to	do
+1	that	require
+1	distibutional	clustering
+1	8	because
+1		stop
+1	of	great
+1	those	that
+1	are	in
+1	0	9
+1	1992	schitze
+1	0	0
+1	0	2
+1	0	3
+1	0	4
+1	menace	drugs
+1	42	50
+1	set	distance
+1	high	it
+1		contained
+1	relatives	the
+1	main	source
+1	into	typical
+1	made	after
+1	similar	patterns
+1	eachfi	c
+1	whose	weight
+1	and	croft
+1		bilingual
+1	4	discussion
+1	42	
+1	between	their
+1	n	we
+1	is	bounded
+1	after	three
+1	results	are
+1	vx	sim
+1	and	thus
+1	every	appearance
+1	battle	capacity
+1	total	
+1	appears	both
+1	contributes	to
+1	that	different
+1	models	of
+1	imitator	bandsman
+1	although	the
+1	a	frequent
+1	medium	press
+1	si	but
+1	linguistic	structure
+1	to	interpolate
+1	the	tuning
+1	the	transitive
+1	of	abstraction
+1	one	may
+1	combined	an
+1	where	sire
+1	required	flexibility
+1	use	this
+1	approaches	our
+1	1990	word
+1	observing	members
+1	4th	international
+1		when
+1	the	extraction
+1	monolingual	corpus
+1	appeal	action
+1	senses	may
+1	prescription	campaign
+1	a	proof
+1	schi	1992
+1	katherine	j
+1	nature	of
+1	to	drug
+1	bankruptcy	appeal
+1	alcohol	trafficker
+1	saving	sedative
+1	and	natural
+1	staff	state
+1	1993	or
+1		construction
+1	values	may
+1	best	
+1	contextually	doctor
+1	size	of
+1	yielding	a
+1	xi	yk
+1	w	affinity
+1	usages	likewise
+1	words	whose
+1		nested
+1	maxsimn	xi
+1	similarity	leads
+1	likewise	
+1	army	lot
+1	evaluation	of
+1	lexical	database
+1	the	intuitive
+1	impact	injury
+1	our	scheme
+1	is	max
+1		entries
+1	collection	the
+1	44	1
+1	present	in
+1	garment	21
+1		weinreich
+1	damage	because
+1	31st	annual
+1	the	observation
+1	inherent	in
+1	identity	matrix
+1		requirement
+1	processing	lawrence
+1	thesaurus	only
+1	set	we
+1	than	abstract
+1	bottleneck	brown
+1	w	requires
+1	total	weight
+1	encountered	
+1	factor	is
+1	using	such
+1	grammar	4
+1	representation	
+1	be	given
+1	3	we
+1	smaller	than
+1	requirement	
+1	in	fact
+1	1	terminology
+1		including
+1	however	is
+1		censorship
+1	only	identical
+1	strong	correlation
+1	between	our
+1	the	adjacent
+1	corpora	requires
+1	schi	hinrich
+1	number	and
+1	s3	eat
+1	between	them
+1		philadelphia
+1	thus	
+1	terminology	
+1	obtained	by
+1	we	will
+1		analyzing
+1	v	3
+1	1	update
+1	mrd	yielded
+1	regularities	for
+1	as	successively
+1	may	discuss
+1	v	o
+1	counter	this
+1		dictionary
+1		mafioso
+1	as	they
+1	mathematics	and
+1	recursively	for
+1	a	guthrie
+1	1991	gale
+1	murder	symbolism
+1	thus	it
+1	result	both
+1	currently	testing
+1		part
+1	consumer	distributor
+1	discovering	
+1	and	gale
+1	eat	furthermore
+1	assigned	a
+1	conceptual	distance
+1	here	we
+1	little	to
+1	and	iterate
+1	appearances	
+1	and	markovitch
+1	substance	symbolism
+1	of	similarities
+1	sources	
+1	the	user
+1	the	choices
+1	follows	section
+1	typical	
+1	improved	this
+1	1992	used
+1	krovetz	and
+1	proximity	to
+1	cell	i
+1	concerning	is
+1	the	actual
+1	the	overlap
+1	by	senses
+1	ck	and
+1	success	rates
+1	simi	x
+1	often	disagree
+1	is	assumed
+1	the	subcorpus
+1	xj	x
+1	was	popularized
+1	updating	the
+1	workshop	
+1	not	one
+1	w	using
+1	approaches	to
+1	improve	the
+1	censorship	leader
+1	strongly	indicative
+1	same	lexical
+1		ambiguous
+1	is	reflexive
+1	in	general
+1	1	4
+1	pietra	
+1	problem	for
+1	augment	the
+1	noise	in
+1		iterative
+1	could	be
+1	iteration	taste
+1	killing	murder
+1	quite	similar
+1	carried	out
+1	50	
+1	late	to
+1	letting	this
+1	denoted	as
+1	now	some
+1	1989	and
+1	thus	simn
+1	1	stopping
+1	typical	number
+1	siren	x
+1	matrices	involves
+1		yael
+1	aspiration	editor
+1	and	other
+1	iteration	1
+1	iteration	3
+1	iteration	2
+1	iteration	5
+1	to	wsd
+1	sense1	feedback
+1	even	from
+1	meaning	in
+1	the	factor
+1	of	two
+1	trafficking	crime
+1	were	then
+1	4	4
+1	4	6
+1	4	1
+1	iteration	i
+1	case	aft
+1	usage	most
+1		certain
+1	whose	rows
+1	original	trainingset
+1	more	reliable
+1	detail	the
+1		grammar
+1	studied	was
+1	robert	a
+1	trafficking	furor
+1	oxford	dictionaries
+1	contains	w
+1	1992	learned
+1		brill
+1		mercer
+1	sense	usually
+1	weight	cf
+1	we	collect
+1	5	can
+1	address	
+1	capture	
+1	alcoholist	alcohol
+1	o	
+1	v	yk
+1	furthermore	the
+1	conference	pages
+1	density	does
+1	lynette	1986
+1	quine	willard
+1	several	possible
+1	two	languages
+1	sentences	to
+1	indicative	than
+1	sentence	the
+1	related	contexts
+1	sum	to
+1		automatic
+1	it	may
+1	brings	together
+1	a	weighted
+1	clothes	in
+1	than	nearby
+1	sedative	state
+1	dominated	the
+1	themselves	note
+1	turns	out
+1	product	publicity
+1	disagree	on
+1	analogously	sentences
+1	83	65
+1	snew	ck
+1	sparse	
+1	and	pr
+1	wi	is
+1	nothing	press
+1	see	figure
+1	denotes	the
+1	w	each
+1		iteratively
+1	1993	note
+1	relationships	and
+1		learn
+1	describe	a
+1	we	automatically
+1	complex	situations
+1	hospital	than
+1	campaign	competition
+1	and	similarly
+1	total	of
+1	the	features
+1		symposium
+1	algorithm	was
+1	c	0
+1	weight	that
+1	hospital	and
+1	c	8
+1	it	similarly
+1		containing
+1	cruse	
+1	of	cognitive
+1	methods	
+1	cream	cone
+1	confined	the
+1	potentially	inflating
+1	bound	of
+1	stop	when
+1	because	both
+1	always	conform
+1	politics	press
+1	statistical	methods
+1	certain	affinity
+1	method	can
+1	case	
+1	concludes	with
+1	totally	unrelated
+1	trade	world
+1	initially	only
+1	iteration	and
+1	extraction	of
+1	extensive	data
+1	then	used
+1	presented	
+1	form	a
+1	set	gale
+1	references	
+1	traditionally	the
+1	and	doctor
+1	14	affn
+1	been	omitted
+1		update
+1	great	use
+1	on	mere
+1		meaning
+1		transitive
+1	continued	and
+1	this	is
+1	recently	suggested
+1	r	added
+1	w	3
+1	be	1
+1	science	laboratory
+1	concepts	appear
+1		method
+1	row	in
+1	crime	are
+1	phase	transitions
+1	ssmok	that
+1	w	c
+1		language
+1	significantly	decreased
+1	text	
+1	w	j
+1	single	best
+1	small	feedback
+1	their	country
+1	sentence	weight
+1	work	was
+1	conversation	text
+1	falmer	bn1
+1		consolidated
+1	we	employed
+1	uriel	1980
+1	a	vector
+1	note	also
+1	define	word
+1	a	rich
+1	factor	words
+1	their	nodes
+1	censorship	mafia
+1	lexical	semantics
+1	being	semantically
+1		features
+1	1	whereas
+1	senses	listed
+1	likelihood	by
+1	representing	a
+1	be	especially
+1		corpus
+1	overcome	by
+1	1990	unlike
+1	types	
+1	indicating	its
+1	this	example
+1	s2	taste
+1	under	the
+1	it	turns
+1	sentences	contribute
+1	words	our
+1		impersonator
+1	computing	similarity
+1	sense	defined
+1	of	factors
+1	textual	distance
+1	word	bigrams
+1	not	for
+1	that	each
+1	coverage	problem
+1	distance	stemming
+1	not	designed
+1	therefore	best
+1	brother	nothing
+1	best	for
+1	been	fully
+1	common	usage
+1	traffic	than
+1	along	with
+1		wilks
+1	0	the
+1	the	support
+1	applying	this
+1	than	1
+1		annual
+1	82	is
+1	2	participant
+1	in	it
+1	singer	vocalist
+1	text	corpora
+1	dealer	
+1	estimation	from
+1	dissimilar	to
+1		flexible
+1	knowledge	sources
+1	transitions	
+1	karov	
+1	warning	
+1	sublanguage	structure
+1	is	listed
+1	using	single
+1	of	applied
+1	utility	in
+1	then	defined
+1	w	bruce
+1	as	that
+1	metabolism	study
+1	medicine	
+1	from	those
+1	upon	termination
+1		this
+1	a	disambiguator
+1	lillian	lee
+1	ma	02142
+1	a	data
+1	remaining	relevant
+1	addresses	this
+1		distribuitional
+1	involves	
+1	unreliable	
+1	allow	such
+1	by	multiplying
+1	is	said
+1	size	feedback
+1	tends	
+1	automatic	
+1	5	1
+1	5	2
+1	two	feedback
+1	increase	in
+1	this	does
+1	combine	the
+1	resulted	in
+1	stopping	condition
+1	union	
+1	to	traffic
+1	threat	
+1	biological	computational
+1	100	0
+1	a	class
+1		8j
+1	there	
+1		grouping
+1	consideration	as
+1	columns	are
+1	one	million
+1	where	factor
+1	or	1
+1	performance	with
+1	and	clothes
+1	worse	performance
+1	and	computing
+1	be	disambiguated
+1	corpus	section
+1		88
+1		82
+1	z_	factor
+1	p	
+1		86
+1		84
+1		dose
+1	the	effects
+1	that	our
+1	discarding	features
+1	seem	that
+1	1991	used
+1	learns	from
+1	9	10
+1	be	overcome
+1	sets	consisted
+1	people	
+1	poor	performance
+1	each	category
+1	homa	aidinejad
+1	manufacturing	
+1	of	bank
+1	domains	sublanguage
+1	computing	
+1	w1	to
+1	of	unobserved
+1	many	words
+1	iteration	that
+1	government	magnitude
+1	disambiguation	rivaling
+1	of	systems
+1	sense	iterations
+1	sentences	for
+1	there	are
+1	are	excluded
+1	share	neighbors
+1	43	cognitive
+1	profit	publicity
+1	were	obtained
+1	because	each
+1	line	of
+1		comparison
+1	normally	have
+1	sentences	these
+1		pr
+1	moral	structure
+1	capture	contextual
+1	either	court
+1	acquittal	term
+1	t_	
+1	than	what
+1	starting	with
+1	belong	also
+1		network
+1	many	of
+1	than	similarity
+1	follows	each
+1	resulting	alternative
+1	sets	two
+1		noun
+1	highest	weights
+1	freq	w
+1		neural
+1	81	to
+1	y	simi_l
+1	we	find
+1		been
+1	89	for
+1	different	weight
+1	clustered	the
+1	is	judged
+1	split	into
+1	ancestor	of
+1	approaches	data
+1	completely	dissimilar
+1	statistical	models
+1	algorithm	addresses
+1	lexical	discovery
+1	problem	
+1	similarly	every
+1	to	exclude
+1	language	in
+1	what	would
+1	conclude	that
+1	its	most
+1	that	did
+1	sale	saving
+1	matrix	ssmok
+1	bill	case
+1	note	
+1	words	thus
+1		were
+1	approach	a
+1	as	w
+1	include	a
+1	system	is
+1		approach
+1	2	computation
+1	overlap	
+1	because	traffic
+1	more	sentences
+1	language	
+1	evidence	finding
+1	similarity	evaluation
+1	sentences	use
+1	intuitive	notion
+1	relationships	are
+1	organized	as
+1	said	to
+1		course
+1	senses	tend
+1	richard	kittredge
+1	of	similar
+1	usually	
+1	initialize	r
+1	further	similarity
+1	results	tend
+1	because	definitions
+1	yk	y
+1	assignment	made
+1	1	to
+1	of	data
+1	structure	miller
+1	are	few
+1	2	garment
+1		deducing
+1	as	noted
+1	this	paper
+1	1	t_
+1	other	uses
+1	conditions	of
+1	detail	several
+1	country	reduction
+1	manually	assigned
+1	was	the
+1		representation
+1	not	label
+1	unambiguous	assignment
+1	learn	a
+1	nonnegative	and
+1	relatively	small
+1	methods	are
+1	medicine	pharmaceutical
+1	92	5
+1	under	a
+1	foreclosure	proceeding
+1	maxsim	yk
+1	v	and
+1	synonyms	or
+1	consisted	of
+1	the	evidence
+1	or	for
+1	14	14
+1	ido	shaul
+1	are	sorted
+1	have	little
+1	minneapolis	
+1	114	10
+1	its	
+1	sets	i
+1	university	princeton
+1	data	before
+1	2	menace
+1	the	nearest
+1	corpus	computers
+1	comparison	our
+1	2	sentence
+1	analysis	a
+1	a	symmetric
+1	may	benefit
+1	techniques	pages
+1	a	factor
+1	rate	is
+1	method	and
+1	2	in
+1	it	directly
+1	cluster	
+1	is	hardly
+1	above	algorithm
+1	manuscript	this
+1	summary	of
+1	drugs	appear
+1	sigdoc	conference
+1	5	related
+1	depends	critically
+1	count	w
+1	the	importance
+1	as	producing
+1	blood	campaign
+1	97	7
+1	done	by
+1	w	may
+1	w	max
+1	learning	disambiguation
+1	1990	dagan
+1	follows	
+1	example	gale
+1	frequent	w2
+1	comparison	we
+1	grisham	editor
+1	a	bilingual
+1	bilingual	
+1	identity	
+1	enough	
+1	are	more
+1	weights	contributed
+1	summary	proofs
+1	comedian	dancer
+1	if	the
+1	j	holds
+1	or	manually
+1	likely	than
+1	of	year
+1	word	reflecting
+1	assassination	brother
+1	syntactic	constructs
+1	1	max5xfreq
+1		humans
+1		indicating
+1	of	single
+1	computer	science
+1		diethylstilbestrol
+1	playactor	trouper
+1		necessarily
+1	automatically	assigned
+1	and	utility
+1	bilingual	lexicon
+1	and	living
+1	work	krovetz
+1	the	curves
+1	first	glance
+1	testing	additional
+1	disambiguating	the
+1	many	
+1	of	500
+1	obviate	the
+1	2	4
+1	2	5
+1	clusters	did
+1	relationship	to
+1		miller
+1	and	manually
+1	sentence	used
+1	well	as
+1	incorporated	into
+1	bruce	croft
+1		david
+1		throughout
+1	have	done
+1	w2	by
+1	pharmacists	
+1	are	closely
+1	w	belongs
+1	is	severely
+1	discussion	of
+1	1993	contextual
+1	church	kenneth
+1	word	we
+1	word	wj
+1	word	wi
+1	computing	the
+1	similarity	formulae
+1	process	designed
+1		they
+1	alternative	to
+1	supporting	disambiguation
+1	method	hinges
+1	for	eventually
+1	one	in
+1	yoon	j
+1	were	updated
+1	most	frequent
+1	to	any
+1	two	plots
+1	94	8
+1	3	further
+1	_	maxsim
+1	1986	several
+1	in	being
+1	word	most
+1	drug	example
+1	analyst	profit
+1		based
+1	1992	clustered
+1	machinereadable	
+1	combines	a
+1	these	however
+1	plant	animal
+1	few	we
+1	wsmn	one
+1	sublanguage	analysis
+1	sets	are
+1	method	we
+1	than	drug
+1	2	below
+1	our	approach
+1	a	4
+1	weight	before
+1	size	correct
+1	wj	in
+1	other	examples
+1	symptom	hypoglycemia
+1	competition	dollar
+1	nondecreasing	function
+1		categories
+1	1989	
+1	definitions	
+1	which	two
+1	s	can
+1	its	ability
+1	increases	with
+1		krovetz
+1	supervise	the
+1	discarded	if
+1	features	see
+1	by	automatically
+1	robert	and
+1	its	part
+1	new	instance
+1	most	contextually
+1	the	level
+1	mit	
+1	which	we
+1	the	apple
+1	that	do
+1	weight	xi
+1	direct	the
+1	on	sets
+1	of	simn
+1	matrix	we
+1	al	1990
+1	an	original
+1		acknowledgments
+1	constitute	a
+1	marcus	
+1	than	traffic
+1	of	discourse
+1	allow	the
+1	shaul	
+1	appeal	death
+1	1	reflects
+1	because	it
+1	length	between
+1	mrd	by
+1	to	si
+1	3	90
+1	details	of
+1	is	presorted
+1	xj	maxsim
+1	hierarchies	
+1	context	or
+1	measure	which
+1	dictionary	although
+1	using	amsler
+1	over	the
+1	ssm	for
+1		grishman
+1	that	has
+1	adopting	a
+1	we	suggest
+1	of	strict
+1	asymmetric	aft
+1	favorably	to
+1	tendency	by
