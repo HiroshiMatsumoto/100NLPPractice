@@ -1,0 +1,8 @@
+#文字列chunkを句読点ごとにリストにいれたものをリターンする。
+def OneLineEach(chunk):
+    retList = list()
+    SplitChunk = chunk.split("。")
+    for line in SplitChunk:
+        if not re.match("[\n\z]",line):
+            retList.append(line+"。")
+    return retList  
