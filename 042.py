@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 #-*- encoding: utf-8 -*-
-#文章中に出現するすべての動詞を抜き出せ．
+#(42)文章中に出現するすべての動詞を抜き出せ．
 
 from HiroshiLib import OneLineEach
 import MeCab
