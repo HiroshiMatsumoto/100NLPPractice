@@ -4,11 +4,19 @@
 #ref:http://nltk.googlecode.com/svn/trunk/doc/book-jp/ch12.html#cabocha
 import CaboCha
 cabocha = CaboCha.Parser('--charset=UTF8')
-sent = u"太郎はこの本を二郎を見た女性に渡した。".encode('utf-8')
+#sent = u"太郎はこの本を二郎を見た女性に渡した。".encode('utf-8')
 
-print "parseToString:"
-print cabocha.parseToString(sent)
 
-print "tree.toString:"
-tree = cabocha.parse(sent)
-print tree.toString(CaboCha.FORMAT_LATTICE)
+inFile = open("JpData.txt","r")
+Contents = inFile.readlines()
+for line in Contents:
+    for setence in line.strip('\n').split("。"):
+        setence+="。"
+        sent = setence
+        """
+        print "parseToString:"
+        print cabocha.parseToString(sent)
+        """
+        #print "tree.toString:"
+        tree = cabocha.parse(sent)
+        print tree.toString(CaboCha.FORMAT_LATTICE)
