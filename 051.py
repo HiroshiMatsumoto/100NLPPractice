@@ -19,4 +19,5 @@ for line in Contents:
         """
         #print "tree.toString:"
         tree = cabocha.parse(sent)
+#        print tree
         print tree.toString(CaboCha.FORMAT_LATTICE)
